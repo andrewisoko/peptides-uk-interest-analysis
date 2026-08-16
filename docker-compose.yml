@@ -1,0 +1,14 @@
+services:
+  postgres:
+    image: postgres:16
+    env_file: .env
+    ports:
+      - "${POSTGRES_PORT}:5432"
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+      # Runs once, only on an empty data volume: creates the star schema
+      # before any loader script connects.
+      - ./database/schema.sql:/docker-entrypoint-initdb.d/schema.sql
+
+volumes:
+  pg_data:
