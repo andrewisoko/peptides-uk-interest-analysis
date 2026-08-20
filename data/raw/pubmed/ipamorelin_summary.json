@@ -1,0 +1,1300 @@
+{
+  "result": {
+    "uids": [
+      "42578445",
+      "42395176",
+      "42160466",
+      "42123471",
+      "42021992",
+      "41966639",
+      "41880199",
+      "41490200",
+      "41476424",
+      "39043357",
+      "38996787"
+    ],
+    "42578445": {
+      "uid": "42578445",
+      "pubdate": "2026 Aug 11",
+      "epubdate": "2026 Aug 11",
+      "source": "Am J Sports Med",
+      "authors": [
+        {
+          "name": "Tewari K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu TP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Im C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hamad C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Petrigliano F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cheung EC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kremen TJ Jr",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Kremen TJ Jr",
+      "title": "Peptide Supplements and Their Therapeutic Applications in Sports Medicine.",
+      "sorttitle": "peptide supplements and their therapeutic applications in sports medicine",
+      "volume": "",
+      "issue": "",
+      "pages": "3635465261464420",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7609541",
+      "issn": "0363-5465",
+      "essn": "1552-3365",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - as supplied by publisher",
+      "pubstatus": "10",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42578445"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1177/03635465261464420"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/08/11 12:37"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/08/11 12:37"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/08/11 06:59"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The American journal of sports medicine",
+      "elocationid": "doi: 10.1177/03635465261464420",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/08/11 00:00",
+      "sortfirstauthor": "Tewari K",
+      "vernaculartitle": ""
+    },
+    "42395176": {
+      "uid": "42395176",
+      "pubdate": "2026",
+      "epubdate": "2026 Jun 18",
+      "source": "Front Endocrinol (Lausanne)",
+      "authors": [
+        {
+          "name": "Dominikowski A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "R\u0119ko\u015b Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Olejarz M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Szczepanek-Parulska E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Domin R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rucha\u0141a M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Rucha\u0141a M",
+      "title": "The emerging landscape of performance-enhancing peptides modulating GH-IGF1 axis: bridging the gap between clinical evidence and patient self-administration.",
+      "sorttitle": "emerging landscape of performance enhancing peptides modulating gh igf1 axis bridging the gap between clinical evidence and patient self administration",
+      "volume": "17",
+      "issue": "",
+      "pages": "1822475",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101555782",
+      "issn": "1664-2392",
+      "essn": "1664-2392",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42395176"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13322892"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13322892;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3389/fendo.2026.1822475"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/03/03 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/05/05 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/06/02 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/07/03 16:10"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/07/03 06:31"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/07/03 05:19"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/06/18 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 167,
+      "fulljournalname": "Frontiers in endocrinology",
+      "elocationid": "doi: 10.3389/fendo.2026.1822475",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/06/18 00:00",
+      "sortfirstauthor": "Dominikowski A",
+      "vernaculartitle": ""
+    },
+    "42160466": {
+      "uid": "42160466",
+      "pubdate": "2026 May 1",
+      "epubdate": "2026 May 20",
+      "source": "JBJS Rev",
+      "authors": [
+        {
+          "name": "Villegas Meza AD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nocek M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mitchell BC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lizarraga M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "DeFoor MT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ruzbarsky JJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huard J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Philippon MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Philippon MJ",
+      "title": "Injectable Peptides in Sports Medicine: A Structured Narrative Review of Evidence, Safety, and Antidoping Implications.",
+      "sorttitle": "injectable peptides in sports medicine a structured narrative review of evidence safety and antidoping implications",
+      "volume": "14",
+      "issue": "5",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101674872",
+      "issn": "",
+      "essn": "2329-9185",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42160466"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2106/JBJS.RVW.26.00027"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "01874474-202605000-00002"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/05/20 18:34"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/05/20 18:33"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/05/20 14:13"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "JBJS reviews",
+      "elocationid": "doi: e26.00027",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/05/20 00:00",
+      "sortfirstauthor": "Villegas Meza AD",
+      "vernaculartitle": ""
+    },
+    "42123471": {
+      "uid": "42123471",
+      "pubdate": "2026 Apr 27",
+      "epubdate": "2026 Apr 27",
+      "source": "Int J Mol Sci",
+      "authors": [
+        {
+          "name": "Renke G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chinellato L",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Chinellato L",
+      "title": "Therapeutic Peptides in Aesthetic, Metabolic and Endocrine Conditions: Effects, Safety, Clinical Applications, and Future Perspectives.",
+      "sorttitle": "therapeutic peptides in aesthetic metabolic and endocrine conditions effects safety clinical applications and future perspectives",
+      "volume": "27",
+      "issue": "9",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101092791",
+      "issn": "",
+      "essn": "1422-0067",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42123471"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13164565"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13164565;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/ijms27093890"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ijms27093890"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/02/25 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/04/13 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/04/19 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/05/13 06:32"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/05/13 06:31"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/05/13 01:11"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/04/27 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 105,
+      "fulljournalname": "International journal of molecular sciences",
+      "elocationid": "doi: 10.3390/ijms27093890",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/04/27 00:00",
+      "sortfirstauthor": "Renke G",
+      "vernaculartitle": ""
+    },
+    "42021992": {
+      "uid": "42021992",
+      "pubdate": "2026",
+      "epubdate": "2026 Apr 7",
+      "source": "Front Aging",
+      "authors": [
+        {
+          "name": "Mavrych V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shypilova I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bolgova O",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Bolgova O",
+      "title": "Therapeutic peptides in gerontology: mechanisms and applications for healthy aging.",
+      "sorttitle": "therapeutic peptides in gerontology mechanisms and applications for healthy aging",
+      "volume": "7",
+      "issue": "",
+      "pages": "1790247",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9918231199706676",
+      "issn": "2673-6217",
+      "essn": "2673-6217",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42021992"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13095733"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13095733;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3389/fragi.2026.1790247"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "1790247"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/01/17 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/02/27 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/03/20 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/04/23 06:33"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/04/23 06:32"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/04/23 05:06"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/04/07 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 56,
+      "fulljournalname": "Frontiers in aging",
+      "elocationid": "doi: 10.3389/fragi.2026.1790247",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/04/07 00:00",
+      "sortfirstauthor": "Mavrych V",
+      "vernaculartitle": ""
+    },
+    "41966639": {
+      "uid": "41966639",
+      "pubdate": "2026 Aug",
+      "epubdate": "2026 Apr 12",
+      "source": "Sports Med",
+      "authors": [
+        {
+          "name": "Mendias CL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Awan TM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Awan TM",
+      "title": "Safety and Efficacy of Approved and Unapproved Peptide Therapies for Musculoskeletal Injuries and Athletic Performance.",
+      "sorttitle": "safety and efficacy of approved and unapproved peptide therapies for musculoskeletal injuries and athletic performance",
+      "volume": "56",
+      "issue": "8",
+      "pages": "1921-1935",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8412297",
+      "issn": "0112-1642",
+      "essn": "1179-2035",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41966639"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s40279-026-02437-0"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s40279-026-02437-0"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "accepted",
+          "date": "2026/03/24 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/08/10 12:36"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/04/12 12:33"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/04/12 11:02"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Sports medicine (Auckland, N.Z.)",
+      "elocationid": "doi: 10.1007/s40279-026-02437-0",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/08/01 00:00",
+      "sortfirstauthor": "Mendias CL",
+      "vernaculartitle": ""
+    },
+    "41880199": {
+      "uid": "41880199",
+      "pubdate": "2026 Jul",
+      "epubdate": "2026 Mar 25",
+      "source": "J Sports Med Phys Fitness",
+      "authors": [
+        {
+          "name": "Coutinho LFD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "DE Oliveira Neves LF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Camilo RP",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Camilo RP",
+      "title": "A new era of doping? Use of peptide and peptide-analog drugs in recreational and professional sport and bodybuilding: a critical review.",
+      "sorttitle": "new era of doping use of peptide and peptide analog drugs in recreational and professional sport and bodybuilding a critical review",
+      "volume": "66",
+      "issue": "7",
+      "pages": "880-885",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0376337",
+      "issn": "0022-4707",
+      "essn": "1827-1928",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41880199"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.23736/S0022-4707.26.17773-1"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0022-4707.26.17773-1"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/06/18 06:32"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/03/25 19:36"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/03/25 12:47"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Journal of sports medicine and physical fitness",
+      "elocationid": "doi: 10.23736/S0022-4707.26.17773-1",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/07/01 00:00",
+      "sortfirstauthor": "Coutinho LFD",
+      "vernaculartitle": ""
+    },
+    "41490200": {
+      "uid": "41490200",
+      "pubdate": "2026 Jan 1",
+      "epubdate": "2026 Jan 2",
+      "source": "J Am Acad Orthop Surg Glob Res Rev",
+      "authors": [
+        {
+          "name": "Rahman OF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lee SJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Seeds WA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Seeds WA",
+      "title": "Therapeutic Peptides in Orthopaedics: Applications, Challenges, and Future Directions.",
+      "sorttitle": "therapeutic peptides in orthopaedics applications challenges and future directions",
+      "volume": "10",
+      "issue": "1",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101724868",
+      "issn": "",
+      "essn": "2474-7661",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41490200"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12753158"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12753158;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.5435/JAAOSGlobal-D-25-00236"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "01979360-202601000-00001"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/06/25 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/11/09 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/06 13:07"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/06 13:06"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/06 10:34"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/01/02 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 53,
+      "fulljournalname": "Journal of the American Academy of Orthopaedic Surgeons. Global research & reviews",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/02 00:00",
+      "sortfirstauthor": "Rahman OF",
+      "vernaculartitle": ""
+    },
+    "41476424": {
+      "uid": "41476424",
+      "pubdate": "2026 Jan",
+      "epubdate": "2026 Jan 1",
+      "source": "Am J Sports Med",
+      "authors": [
+        {
+          "name": "Mayfield CK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bolia IK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Feingold CL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lin EH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu JN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rick Hatch GF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gamradt SC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Weber AE",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Weber AE",
+      "title": "Injectable Peptide Therapy: A Primer for Orthopaedic and Sports Medicine Physicians.",
+      "sorttitle": "injectable peptide therapy a primer for orthopaedic and sports medicine physicians",
+      "volume": "54",
+      "issue": "1",
+      "pages": "223-229",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7609541",
+      "issn": "0363-5465",
+      "essn": "1552-3365",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41476424"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1177/03635465251357593"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/01 07:39"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/01 07:38"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/01 03:03"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The American journal of sports medicine",
+      "elocationid": "doi: 10.1177/03635465251357593",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "Mayfield CK",
+      "vernaculartitle": ""
+    },
+    "39043357": {
+      "uid": "39043357",
+      "pubdate": "2024 Oct 1",
+      "epubdate": "2024 Jul 21",
+      "source": "Physiol Behav",
+      "authors": [
+        {
+          "name": "Lu Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ngan MP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu JYH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tu L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chan SW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Giuliano C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lovati E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pietra C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rudd JA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Rudd JA",
+      "title": "The growth hormone secretagogue receptor 1a agonists, anamorelin and ipamorelin, inhibit cisplatin-induced weight loss in ferrets: Anamorelin also exhibits anti-emetic effects via a central mechanism.",
+      "sorttitle": "growth hormone secretagogue receptor 1a agonists anamorelin and ipamorelin inhibit cisplatin induced weight loss in ferrets anamorelin also exhibits anti emetic effects via a central mechanism",
+      "volume": "284",
+      "issue": "",
+      "pages": "114644",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0151504",
+      "issn": "0031-9384",
+      "essn": "1873-507X",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39043357"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.physbeh.2024.114644"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0031-9384(24)00192-6"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2024/05/31 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2024/07/17 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2024/07/19 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2024/08/12 06:43"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2024/07/24 00:42"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2024/07/23 19:22"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Physiology & behavior",
+      "elocationid": "doi: 10.1016/j.physbeh.2024.114644",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2024/10/01 00:00",
+      "sortfirstauthor": "Lu Z",
+      "vernaculartitle": ""
+    },
+    "38996787": {
+      "uid": "38996787",
+      "pubdate": "2024 Sep",
+      "epubdate": "2024 Jul 5",
+      "source": "Anim Reprod Sci",
+      "authors": [
+        {
+          "name": "Gouda M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ganesh CB",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Ganesh CB",
+      "title": "The influence of ghrelin agonist ipamorelin acetate on the hypothalamic-pituitary-testicular axis in a cichlid fish, Oreochromis mossambicus.",
+      "sorttitle": "influence of ghrelin agonist ipamorelin acetate on the hypothalamic pituitary testicular axis in a cichlid fish oreochromis mossambicus",
+      "volume": "268",
+      "issue": "",
+      "pages": "107550",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7807205",
+      "issn": "0378-4320",
+      "essn": "1873-2232",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38996787"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.anireprosci.2024.107550"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0378-4320(24)00141-6"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2024/05/03 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2024/06/26 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2024/07/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2024/08/26 12:39"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2024/07/13 07:44"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2024/07/12 19:51"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Animal reproduction science",
+      "elocationid": "doi: 10.1016/j.anireprosci.2024.107550",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2024/09/01 00:00",
+      "sortfirstauthor": "Gouda M",
+      "vernaculartitle": ""
+    }
+  }
+}

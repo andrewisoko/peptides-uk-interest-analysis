@@ -1,0 +1,23 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "8",
+    "retmax": "8",
+    "retstart": "0",
+    "idlist": [
+      "42578445",
+      "42542926",
+      "42021992",
+      "41966639",
+      "41490200",
+      "41476424",
+      "40681595",
+      "38382158"
+    ],
+    "translationset": [],
+    "querytranslation": "\"TB-500\"[All Fields] AND 2023/01/01:2026/12/31[Date - Publication]"
+  }
+}

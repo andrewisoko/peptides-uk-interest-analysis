@@ -1,0 +1,46 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "26",
+    "retmax": "26",
+    "retstart": "0",
+    "idlist": [
+      "42538058",
+      "42419889",
+      "42395176",
+      "42382101",
+      "42160466",
+      "42139091",
+      "42139090",
+      "42123471",
+      "42018810",
+      "41966639",
+      "41879875",
+      "41598480",
+      "41545261",
+      "41490200",
+      "41476424",
+      "41138283",
+      "40510111",
+      "40397552",
+      "39813152",
+      "39746672",
+      "38905488",
+      "38416754",
+      "38197510",
+      "37806509",
+      "36845310",
+      "36461941"
+    ],
+    "translationset": [
+      {
+        "from": "tesamorelin",
+        "to": "\"tesamorelin\"[Supplementary Concept] OR \"tesamorelin\"[All Fields]"
+      }
+    ],
+    "querytranslation": "(\"tesamorelin\"[Supplementary Concept] OR \"tesamorelin\"[All Fields]) AND 2023/01/01:2026/12/31[Date - Publication]"
+  }
+}

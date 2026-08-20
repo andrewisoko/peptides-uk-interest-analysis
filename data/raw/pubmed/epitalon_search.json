@@ -1,0 +1,28 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "8",
+    "retmax": "8",
+    "retstart": "0",
+    "idlist": [
+      "42209466",
+      "42021992",
+      "41240216",
+      "40908429",
+      "40493162",
+      "40141333",
+      "39788414",
+      "37042594"
+    ],
+    "translationset": [
+      {
+        "from": "epitalon",
+        "to": "\"alanyl-glutamyl-aspartyl-glycine\"[Supplementary Concept] OR \"alanyl-glutamyl-aspartyl-glycine\"[All Fields] OR \"epitalon\"[All Fields]"
+      }
+    ],
+    "querytranslation": "(\"alanyl glutamyl aspartyl glycine\"[Supplementary Concept] OR \"alanyl glutamyl aspartyl glycine\"[All Fields] OR \"epitalon\"[All Fields]) AND 2023/01/01:2026/12/31[Date - Publication]"
+  }
+}

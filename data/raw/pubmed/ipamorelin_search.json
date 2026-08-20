@@ -1,0 +1,31 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "11",
+    "retmax": "11",
+    "retstart": "0",
+    "idlist": [
+      "42578445",
+      "42395176",
+      "42160466",
+      "42123471",
+      "42021992",
+      "41966639",
+      "41880199",
+      "41490200",
+      "41476424",
+      "39043357",
+      "38996787"
+    ],
+    "translationset": [
+      {
+        "from": "ipamorelin",
+        "to": "\"ipamorelin\"[Supplementary Concept] OR \"ipamorelin\"[All Fields]"
+      }
+    ],
+    "querytranslation": "(\"ipamorelin\"[Supplementary Concept] OR \"ipamorelin\"[All Fields]) AND 2023/01/01:2026/12/31[Date - Publication]"
+  }
+}

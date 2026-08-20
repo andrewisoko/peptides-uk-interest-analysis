@@ -1,0 +1,32 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "12",
+    "retmax": "12",
+    "retstart": "0",
+    "idlist": [
+      "42578445",
+      "42395176",
+      "42160466",
+      "42123471",
+      "42021992",
+      "41966639",
+      "41880199",
+      "41490200",
+      "41476424",
+      "41138283",
+      "38197510",
+      "37806509"
+    ],
+    "translationset": [
+      {
+        "from": "CJC-1295",
+        "to": "\"cjc 1295\"[Supplementary Concept] OR \"cjc 1295\"[All Fields]"
+      }
+    ],
+    "querytranslation": "(\"cjc 1295\"[Supplementary Concept] OR \"cjc 1295\"[All Fields]) AND 2023/01/01:2026/12/31[Date - Publication]"
+  }
+}

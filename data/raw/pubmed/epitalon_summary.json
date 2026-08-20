@@ -1,0 +1,1087 @@
+{
+  "result": {
+    "uids": [
+      "42209466",
+      "42021992",
+      "41240216",
+      "40908429",
+      "40493162",
+      "40141333",
+      "39788414",
+      "37042594"
+    ],
+    "42209466": {
+      "uid": "42209466",
+      "pubdate": "2026 May 28",
+      "epubdate": "2026 May 28",
+      "source": "Cell Death Dis",
+      "authors": [
+        {
+          "name": "Zhang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Qian S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shi Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dong M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wu S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen Q",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Chen Q",
+      "title": "LCP2 mediates SUV39H1-driven cellular senescence-related chemoresistance in natural killer/T-cell lymphoma.",
+      "sorttitle": "lcp2 mediates suv39h1 driven cellular senescence related chemoresistance in natural killer t cell lymphoma",
+      "volume": "17",
+      "issue": "1",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101524092",
+      "issn": "",
+      "essn": "2041-4889",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42209466"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13408427"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13408427;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41419-026-08897-6"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41419-026-08897-6"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/10/18 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/05/14 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/04/25 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/07/30 12:42"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/05/29 15:42"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/05/28 23:14"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/05/28 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 42,
+      "fulljournalname": "Cell death & disease",
+      "elocationid": "doi: 10.1038/s41419-026-08897-6",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/05/28 00:00",
+      "sortfirstauthor": "Zhang Y",
+      "vernaculartitle": ""
+    },
+    "42021992": {
+      "uid": "42021992",
+      "pubdate": "2026",
+      "epubdate": "2026 Apr 7",
+      "source": "Front Aging",
+      "authors": [
+        {
+          "name": "Mavrych V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shypilova I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bolgova O",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Bolgova O",
+      "title": "Therapeutic peptides in gerontology: mechanisms and applications for healthy aging.",
+      "sorttitle": "therapeutic peptides in gerontology mechanisms and applications for healthy aging",
+      "volume": "7",
+      "issue": "",
+      "pages": "1790247",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9918231199706676",
+      "issn": "2673-6217",
+      "essn": "2673-6217",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42021992"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13095733"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13095733;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3389/fragi.2026.1790247"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "1790247"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/01/17 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/02/27 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/03/20 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/04/23 06:33"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/04/23 06:32"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/04/23 05:06"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/04/07 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 56,
+      "fulljournalname": "Frontiers in aging",
+      "elocationid": "doi: 10.3389/fragi.2026.1790247",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/04/07 00:00",
+      "sortfirstauthor": "Mavrych V",
+      "vernaculartitle": ""
+    },
+    "41240216": {
+      "uid": "41240216",
+      "pubdate": "2025 Nov 15",
+      "epubdate": "2025 Nov 15",
+      "source": "Biogerontology",
+      "authors": [
+        {
+          "name": "Al-Dulaimi S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thomas R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Matta S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Roberts T",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Roberts T",
+      "title": "Correction: Epitalon increases telomere length in human cell lines through telomerase upregulation or ALT activity.",
+      "sorttitle": "correction epitalon increases telomere length in human cell lines through telomerase upregulation or alt activity",
+      "volume": "27",
+      "issue": "1",
+      "pages": "1",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100930043",
+      "issn": "1389-5729",
+      "essn": "1573-6768",
+      "pubtype": [
+        "Published Erratum"
+      ],
+      "recordstatus": "PubMed - in process",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41240216"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12619744"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12619744;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s10522-025-10326-8"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s10522-025-10326-8"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/11/15 12:31"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/11/15 12:31"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/11/15 11:19"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/11/15 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Biogerontology. 2025 Sep 4;26(5):178. doi: 10.1007/s10522-025-10315-x.",
+          "reftype": "Erratum for",
+          "pmid": 40908429,
+          "note": ""
+        }
+      ],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "Biogerontology",
+      "elocationid": "doi: 10.1007/s10522-025-10326-8",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/11/15 00:00",
+      "sortfirstauthor": "Al-Dulaimi S",
+      "vernaculartitle": ""
+    },
+    "40908429": {
+      "uid": "40908429",
+      "pubdate": "2025 Sep 4",
+      "epubdate": "2025 Sep 4",
+      "source": "Biogerontology",
+      "authors": [
+        {
+          "name": "Al-Dulaimi S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thomas R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Matta S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Roberts T",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Roberts T",
+      "title": "Epitalon increases telomere length in human cell lines through telomerase upregulation or ALT activity.",
+      "sorttitle": "epitalon increases telomere length in human cell lines through telomerase upregulation or alt activity",
+      "volume": "26",
+      "issue": "5",
+      "pages": "178",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100930043",
+      "issn": "1389-5729",
+      "essn": "1573-6768",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40908429"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12411320"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12411320;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s10522-025-10315-x"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s10522-025-10315-x"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/07/07 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/08/18 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/09/05 00:37"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/09/05 00:36"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/09/04 23:20"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/09/04 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Biogerontology. 2025 Nov 15;27(1):1. doi: 10.1007/s10522-025-10326-8.",
+          "reftype": "Erratum in",
+          "pmid": 41240216,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 66,
+      "fulljournalname": "Biogerontology",
+      "elocationid": "doi: 10.1007/s10522-025-10315-x",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/09/04 00:00",
+      "sortfirstauthor": "Al-Dulaimi S",
+      "vernaculartitle": ""
+    },
+    "40493162": {
+      "uid": "40493162",
+      "pubdate": "2025 Aug",
+      "epubdate": "2025 Jun 10",
+      "source": "Stem Cell Rev Rep",
+      "authors": [
+        {
+          "name": "Gatta M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dovizio M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Milillo C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ruggieri AG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sallese M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Antonucci I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Trofimov A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Khavinson V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Trofimova S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bruno A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ballerini P",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Ballerini P",
+      "title": "The Antioxidant Tetrapeptide Epitalon Enhances Delayed Wound Healing in an in Vitro Model of Diabetic Retinopathy.",
+      "sorttitle": "antioxidant tetrapeptide epitalon enhances delayed wound healing in an in vitro model of diabetic retinopathy",
+      "volume": "21",
+      "issue": "6",
+      "pages": "1822-1834",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101752767",
+      "issn": "2629-3269",
+      "essn": "2629-3277",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40493162"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12356729"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12356729;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s12015-025-10911-x"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s12015-025-10911-x"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "accepted",
+          "date": "2025/05/30 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/08/31 20:01"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/06/10 13:27"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/06/10 11:09"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/06/10 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 69,
+      "fulljournalname": "Stem cell reviews and reports",
+      "elocationid": "doi: 10.1007/s12015-025-10911-x",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/08/01 00:00",
+      "sortfirstauthor": "Gatta M",
+      "vernaculartitle": ""
+    },
+    "40141333": {
+      "uid": "40141333",
+      "pubdate": "2025 Mar 17",
+      "epubdate": "2025 Mar 17",
+      "source": "Int J Mol Sci",
+      "authors": [
+        {
+          "name": "Araj SK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brzezik J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "M\u0105dra-Gackowska K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Szeleszczuk \u0141",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Szeleszczuk \u0141",
+      "title": "Overview of Epitalon-Highly Bioactive Pineal Tetrapeptide with Promising Properties.",
+      "sorttitle": "overview of epitalon highly bioactive pineal tetrapeptide with promising properties",
+      "volume": "26",
+      "issue": "6",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101092791",
+      "issn": "",
+      "essn": "1422-0067",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40141333"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11943447"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11943447;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/ijms26062691"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ijms26062691"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/02/27 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/03/15 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/03/15 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/03/27 06:30"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/03/27 06:29"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/03/27 01:06"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/03/17 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 125,
+      "fulljournalname": "International journal of molecular sciences",
+      "elocationid": "doi: 10.3390/ijms26062691",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/03/17 00:00",
+      "sortfirstauthor": "Araj SK",
+      "vernaculartitle": ""
+    },
+    "39788414": {
+      "uid": "39788414",
+      "pubdate": "2025 Feb 1",
+      "epubdate": "2025 Jan 7",
+      "source": "Life Sci",
+      "authors": [
+        {
+          "name": "Ullah S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Haider Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Perera CD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lee SH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Idrees M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Park S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kong IK",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Kong IK",
+      "title": "Epitalon-activated telomerase enhance bovine oocyte maturation rate and post-thawed embryo development.",
+      "sorttitle": "epitalon activated telomerase enhance bovine oocyte maturation rate and post thawed embryo development",
+      "volume": "362",
+      "issue": "",
+      "pages": "123381",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0375521",
+      "issn": "0024-3205",
+      "essn": "1879-0631",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39788414"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.lfs.2025.123381"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0024-3205(25)00014-1"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2024/11/19 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/01/03 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/01/06 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/01/18 15:09"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/01/10 00:22"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/01/09 19:17"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Life sciences",
+      "elocationid": "doi: 10.1016/j.lfs.2025.123381",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/02/01 00:00",
+      "sortfirstauthor": "Ullah S",
+      "vernaculartitle": ""
+    },
+    "37042594": {
+      "uid": "37042594",
+      "pubdate": "2023 Feb",
+      "epubdate": "",
+      "source": "Georgian Med News",
+      "authors": [
+        {
+          "name": "Lezhava T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jokhadze T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Monaselidze J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Buadze T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gaiozishvili M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sigua T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Khujadze I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gogidze K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mikaia N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chigvinadze N",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Chigvinadze N",
+      "title": "EPIGENETIC MODIFICATION UNDER THE INFLUENCE OF PEPTIDE BIOREGULATORS ON THE \"OLD\" CHROMATIN.",
+      "sorttitle": "epigenetic modification under the influence of peptide bioregulators on the old chromatin",
+      "volume": "",
+      "issue": "335",
+      "pages": "79-83",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101218222",
+      "issn": "1512-0112",
+      "essn": "",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37042594"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2023/04/13 06:43"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2023/04/12 08:32"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2023/04/13 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Georgian medical news",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2023/02/01 00:00",
+      "sortfirstauthor": "Lezhava T",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,5890 @@
+{
+  "result": {
+    "uids": [
+      "42578445",
+      "42573538",
+      "42510549",
+      "42404628",
+      "42320090",
+      "42245779",
+      "42123471",
+      "42084774",
+      "42058630",
+      "42041438",
+      "42021992",
+      "41997403",
+      "41966639",
+      "41771428",
+      "41594073",
+      "41511598",
+      "41490200",
+      "41476424",
+      "41371501",
+      "40716276",
+      "40672369",
+      "40123442",
+      "40019920",
+      "39963574",
+      "39902373",
+      "39795193",
+      "39632290",
+      "39451062",
+      "38879894",
+      "38599632",
+      "38394858",
+      "38345677",
+      "40766919",
+      "38045355",
+      "38026438",
+      "38014118",
+      "37896245",
+      "37830186",
+      "37624577",
+      "37381226",
+      "37257226",
+      "37180036",
+      "37107176",
+      "37062921",
+      "36905132"
+    ],
+    "42578445": {
+      "uid": "42578445",
+      "pubdate": "2026 Aug 11",
+      "epubdate": "2026 Aug 11",
+      "source": "Am J Sports Med",
+      "authors": [
+        {
+          "name": "Tewari K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu TP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Im C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hamad C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Petrigliano F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cheung EC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kremen TJ Jr",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Kremen TJ Jr",
+      "title": "Peptide Supplements and Their Therapeutic Applications in Sports Medicine.",
+      "sorttitle": "peptide supplements and their therapeutic applications in sports medicine",
+      "volume": "",
+      "issue": "",
+      "pages": "3635465261464420",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7609541",
+      "issn": "0363-5465",
+      "essn": "1552-3365",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - as supplied by publisher",
+      "pubstatus": "10",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42578445"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1177/03635465261464420"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/08/11 12:37"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/08/11 12:37"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/08/11 06:59"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The American journal of sports medicine",
+      "elocationid": "doi: 10.1177/03635465261464420",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/08/11 00:00",
+      "sortfirstauthor": "Tewari K",
+      "vernaculartitle": ""
+    },
+    "42573538": {
+      "uid": "42573538",
+      "pubdate": "2026 Aug",
+      "epubdate": "",
+      "source": "Skin Res Technol",
+      "authors": [
+        {
+          "name": "Wang J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tao K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huang H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chang H",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Chang H",
+      "title": "Augmented Skin Beneficial Effects of Thermus Thermophilus and Bacillus Subtilis Mixed-Culture Ferment Extract by Tripeptide GHK-Cu.",
+      "sorttitle": "augmented skin beneficial effects of thermus thermophilus and bacillus subtilis mixed culture ferment extract by tripeptide ghk cu",
+      "volume": "32",
+      "issue": "8",
+      "pages": "e70360",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9504453",
+      "issn": "0909-752X",
+      "essn": "1600-0846",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42573538"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13455814"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13455814;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/srt.70360"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2026/04/19 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2024/08/03 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/05/08 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/08/10 12:37"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/08/10 12:36"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/08/10 10:24"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/08/10 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 37,
+      "fulljournalname": "Skin research and technology : official journal of International Society for Bioengineering and the Skin (ISBS) [and] International Society for Digital Imaging of Skin (ISDIS) [and] International Society for Skin Imaging (ISSI)",
+      "elocationid": "doi: 10.1111/srt.70360",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/08/01 00:00",
+      "sortfirstauthor": "Wang J",
+      "vernaculartitle": ""
+    },
+    "42510549": {
+      "uid": "42510549",
+      "pubdate": "2026 Jun 29",
+      "epubdate": "2026 Jun 29",
+      "source": "Antioxidants (Basel)",
+      "authors": [
+        {
+          "name": "Jeon S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Maeng J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lee J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kim YM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nam G",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Nam G",
+      "title": "A Torilis japonica Extract-GHK-Cu Complex Attenuates Th2 Cytokines and Promotes Keratinocyte Recovery: A Potential Antioxidant Strategy for Atopic Dermatitis.",
+      "sorttitle": "torilis japonica extract ghk cu complex attenuates th2 cytokines and promotes keratinocyte recovery a potential antioxidant strategy for atopic dermatitis",
+      "volume": "15",
+      "issue": "7",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101668981",
+      "issn": "2076-3921",
+      "essn": "2076-3921",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42510549"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13405852"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13405852;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/antiox15070818"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "antiox15070818"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/05/13 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/06/18 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/06/25 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/07/28 06:37"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/07/28 06:36"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/07/28 01:03"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/06/29 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 32,
+      "fulljournalname": "Antioxidants (Basel, Switzerland)",
+      "elocationid": "doi: 10.3390/antiox15070818",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/06/29 00:00",
+      "sortfirstauthor": "Jeon S",
+      "vernaculartitle": ""
+    },
+    "42404628": {
+      "uid": "42404628",
+      "pubdate": "2026 Aug",
+      "epubdate": "2026 Jun 26",
+      "source": "Mater Today Bio",
+      "authors": [
+        {
+          "name": "Huang ZJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huang RF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jiao PP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zheng S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Teng FW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhou ZS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang GH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jiao GL",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Jiao GL",
+      "title": "Copper peptide activated cascade catalysis for glucose regulation and hypoxia reversing in infected diabetic wound healing.",
+      "sorttitle": "copper peptide activated cascade catalysis for glucose regulation and hypoxia reversing in infected diabetic wound healing",
+      "volume": "39",
+      "issue": "",
+      "pages": "103396",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101757228",
+      "issn": "",
+      "essn": "2590-0064",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42404628"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13330688"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13330688;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.mtbio.2026.103396"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2590-0064(26)00641-1"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/03/31 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/06/04 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/06/23 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/07/06 06:32"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/07/06 06:31"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/07/06 05:37"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/06/26 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 56,
+      "fulljournalname": "Materials today. Bio",
+      "elocationid": "doi: 10.1016/j.mtbio.2026.103396",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/06/26 00:00",
+      "sortfirstauthor": "Huang ZJ",
+      "vernaculartitle": ""
+    },
+    "42320090": {
+      "uid": "42320090",
+      "pubdate": "2026 Nov",
+      "epubdate": "2026 Jun 15",
+      "source": "Biomater Adv",
+      "authors": [
+        {
+          "name": "Su J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cao Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ren T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yin J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Yin J",
+      "title": "Hierarchical regulation and mechanism of \"open-hollow-fibrous network\" structures: Osteogenic-angiogenic coupling responses of poly(\u03b3-benzyl-L-glutamate) microspheres.",
+      "sorttitle": "hierarchical regulation and mechanism of open hollow fibrous network structures osteogenic angiogenic coupling responses of poly benzyl l glutamate microspheres",
+      "volume": "188",
+      "issue": "",
+      "pages": "215017",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9918383886206676",
+      "issn": "",
+      "essn": "2772-9508",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42320090"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.bioadv.2026.215017"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2772-9508(26)00315-8"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/03/09 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/05/30 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/06/12 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/08/01 00:36"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/06/19 18:40"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/06/19 17:59"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Biomaterials advances",
+      "elocationid": "doi: 10.1016/j.bioadv.2026.215017",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/11/01 00:00",
+      "sortfirstauthor": "Su J",
+      "vernaculartitle": ""
+    },
+    "42245779": {
+      "uid": "42245779",
+      "pubdate": "2026 May 26",
+      "epubdate": "2026 May 26",
+      "source": "Res Sq",
+      "authors": [
+        {
+          "name": "Mazzola J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rosenfeld M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tucker M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wezeman J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ladiges W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liao G",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Liao G",
+      "title": "Middle-aged mice treated with GHK-Cu peptide administered intraperitoneally or intranasally show behavioral rescue but divergent hippocampal aging programs.",
+      "sorttitle": "middle aged mice treated with ghk cu peptide administered intraperitoneally or intranasally show behavioral rescue but divergent hippocampal aging programs",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101768035",
+      "issn": "",
+      "essn": "2693-5015",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42245779"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13232416"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13232416;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.21203/rs.3.rs-9520102/v1"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "rs.3.rs-9520102"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/06/05 06:36"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/06/05 06:37"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/06/05 05:07"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/06/03 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 35,
+      "fulljournalname": "Research square",
+      "elocationid": "pii: rs.3.rs-9520102. doi: 10.21203/rs.3.rs-9520102/v1",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/05/26 00:00",
+      "sortfirstauthor": "Mazzola J",
+      "vernaculartitle": ""
+    },
+    "42123471": {
+      "uid": "42123471",
+      "pubdate": "2026 Apr 27",
+      "epubdate": "2026 Apr 27",
+      "source": "Int J Mol Sci",
+      "authors": [
+        {
+          "name": "Renke G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chinellato L",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Chinellato L",
+      "title": "Therapeutic Peptides in Aesthetic, Metabolic and Endocrine Conditions: Effects, Safety, Clinical Applications, and Future Perspectives.",
+      "sorttitle": "therapeutic peptides in aesthetic metabolic and endocrine conditions effects safety clinical applications and future perspectives",
+      "volume": "27",
+      "issue": "9",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101092791",
+      "issn": "",
+      "essn": "1422-0067",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42123471"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13164565"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13164565;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/ijms27093890"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ijms27093890"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/02/25 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/04/13 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/04/19 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/05/13 06:32"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/05/13 06:31"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/05/13 01:11"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/04/27 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 105,
+      "fulljournalname": "International journal of molecular sciences",
+      "elocationid": "doi: 10.3390/ijms27093890",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/04/27 00:00",
+      "sortfirstauthor": "Renke G",
+      "vernaculartitle": ""
+    },
+    "42084774": {
+      "uid": "42084774",
+      "pubdate": "2026 May 5",
+      "epubdate": "2026 May 5",
+      "source": "Biogerontology",
+      "authors": [
+        {
+          "name": "Wen H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhao K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Luo X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pu J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dou Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "He J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nie X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ke Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhou W",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Zhou W",
+      "title": "The GHK-Cu delays aging in\u00a0Caenorhabditis elegans\u00a0via coordinated regulation of mitochondrial function and activation of DAF-16/SKN-1 pathways.",
+      "sorttitle": "ghk cu delays aging in caenorhabditis elegans via coordinated regulation of mitochondrial function and activation of daf 16 skn 1 pathways",
+      "volume": "27",
+      "issue": "3",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100930043",
+      "issn": "1389-5729",
+      "essn": "1573-6768",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42084774"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s10522-026-10444-x"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s10522-026-10444-x"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/03/04 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/04/30 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/05/05 12:39"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/05/05 12:38"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/05/05 11:14"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Biogerontology",
+      "elocationid": "pii: 100. doi: 10.1007/s10522-026-10444-x",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/05/05 00:00",
+      "sortfirstauthor": "Wen H",
+      "vernaculartitle": ""
+    },
+    "42058630": {
+      "uid": "42058630",
+      "pubdate": "2026 Sep",
+      "epubdate": "2026 Apr 21",
+      "source": "Bioact Mater",
+      "authors": [
+        {
+          "name": "Yu X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bei Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Song Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liang S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Qian Z",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Qian Z",
+      "title": "Microenvironment-responsive injectable dynamic hydrogel for sequential antioxidant and tissue regeneration therapy of radiation-induced skin injury.",
+      "sorttitle": "microenvironment responsive injectable dynamic hydrogel for sequential antioxidant and tissue regeneration therapy of radiation induced skin injury",
+      "volume": "63",
+      "issue": "",
+      "pages": "778-794",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101685294",
+      "issn": "",
+      "essn": "2452-199X",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42058630"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13123401"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13123401;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.bioactmat.2026.03.057"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2452-199X(26)00191-X"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/01/28 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/03/20 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/03/27 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/04/30 06:34"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/04/30 06:33"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/04/30 04:53"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/04/21 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 57,
+      "fulljournalname": "Bioactive materials",
+      "elocationid": "doi: 10.1016/j.bioactmat.2026.03.057",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/04/21 00:00",
+      "sortfirstauthor": "Yu X",
+      "vernaculartitle": ""
+    },
+    "42041438": {
+      "uid": "42041438",
+      "pubdate": "2026 Apr 12",
+      "epubdate": "2026 Apr 12",
+      "source": "Biosensors (Basel)",
+      "authors": [
+        {
+          "name": "Chen JS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhu H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chai TQ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang FQ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Yang FQ",
+      "title": "The Laccase-like Property of GHK-Cu and Its Applications in Colorimetric Sensing of Phenolic Compounds.",
+      "sorttitle": "laccase like property of ghk cu and its applications in colorimetric sensing of phenolic compounds",
+      "volume": "16",
+      "issue": "4",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101609191",
+      "issn": "",
+      "essn": "2079-6374",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42041438"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13115362"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13115362;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/bios16040217"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "bios16040217"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/03/18 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/04/08 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/04/10 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/04/27 12:35"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/04/27 12:34"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/04/27 09:23"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/04/12 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 63,
+      "fulljournalname": "Biosensors",
+      "elocationid": "doi: 10.3390/bios16040217",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/04/12 00:00",
+      "sortfirstauthor": "Chen JS",
+      "vernaculartitle": ""
+    },
+    "42021992": {
+      "uid": "42021992",
+      "pubdate": "2026",
+      "epubdate": "2026 Apr 7",
+      "source": "Front Aging",
+      "authors": [
+        {
+          "name": "Mavrych V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shypilova I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bolgova O",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Bolgova O",
+      "title": "Therapeutic peptides in gerontology: mechanisms and applications for healthy aging.",
+      "sorttitle": "therapeutic peptides in gerontology mechanisms and applications for healthy aging",
+      "volume": "7",
+      "issue": "",
+      "pages": "1790247",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9918231199706676",
+      "issn": "2673-6217",
+      "essn": "2673-6217",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42021992"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13095733"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13095733;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3389/fragi.2026.1790247"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "1790247"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/01/17 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/02/27 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/03/20 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/04/23 06:33"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/04/23 06:32"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/04/23 05:06"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/04/07 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 56,
+      "fulljournalname": "Frontiers in aging",
+      "elocationid": "doi: 10.3389/fragi.2026.1790247",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/04/07 00:00",
+      "sortfirstauthor": "Mavrych V",
+      "vernaculartitle": ""
+    },
+    "41997403": {
+      "uid": "41997403",
+      "pubdate": "2026 May 10",
+      "epubdate": "2026 Apr 15",
+      "source": "Eur J Pharmacol",
+      "authors": [
+        {
+          "name": "Hu J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang F",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wang F",
+      "title": "Glycyl-L-histidyl-L-lysine-Cu2(+) (GHK-Cu) Attenuates CuSO(4) or LPS induced-inflammation in Zebrafish larvae model.",
+      "sorttitle": "glycyl l histidyl l lysine cu2 ghk cu attenuates cuso 4 or lps induced inflammation in zebrafish larvae model",
+      "volume": "1023",
+      "issue": "",
+      "pages": "178880",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "1254354",
+      "issn": "0014-2999",
+      "essn": "1879-0712",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41997403"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ejphar.2026.178880"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0014-2999(26)00362-6"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/01/15 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/04/09 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/04/14 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/05/03 05:27"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/04/18 13:10"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/04/17 19:16"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "European journal of pharmacology",
+      "elocationid": "doi: 10.1016/j.ejphar.2026.178880",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/05/10 00:00",
+      "sortfirstauthor": "Hu J",
+      "vernaculartitle": ""
+    },
+    "41966639": {
+      "uid": "41966639",
+      "pubdate": "2026 Aug",
+      "epubdate": "2026 Apr 12",
+      "source": "Sports Med",
+      "authors": [
+        {
+          "name": "Mendias CL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Awan TM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Awan TM",
+      "title": "Safety and Efficacy of Approved and Unapproved Peptide Therapies for Musculoskeletal Injuries and Athletic Performance.",
+      "sorttitle": "safety and efficacy of approved and unapproved peptide therapies for musculoskeletal injuries and athletic performance",
+      "volume": "56",
+      "issue": "8",
+      "pages": "1921-1935",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8412297",
+      "issn": "0112-1642",
+      "essn": "1179-2035",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41966639"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s40279-026-02437-0"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s40279-026-02437-0"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "accepted",
+          "date": "2026/03/24 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/08/10 12:36"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/04/12 12:33"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/04/12 11:02"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Sports medicine (Auckland, N.Z.)",
+      "elocationid": "doi: 10.1007/s40279-026-02437-0",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/08/01 00:00",
+      "sortfirstauthor": "Mendias CL",
+      "vernaculartitle": ""
+    },
+    "41771428": {
+      "uid": "41771428",
+      "pubdate": "2026 May 1",
+      "epubdate": "2026 Feb 28",
+      "source": "Eur J Pharm Sci",
+      "authors": [
+        {
+          "name": "Huang Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zou Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cheng D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gao R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhou L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wu W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yuan Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chun C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liang G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wu W",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wu W",
+      "title": "Glycyl-l-histidyl-l-lysine as a novel co-former in co-amorphous systems: Enhanced aqueous solubility and physical stability.",
+      "sorttitle": "glycyl l histidyl l lysine as a novel co former in co amorphous systems enhanced aqueous solubility and physical stability",
+      "volume": "220",
+      "issue": "",
+      "pages": "107493",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9317982",
+      "issn": "0928-0987",
+      "essn": "1879-0720",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41771428"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ejps.2026.107493"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0928-0987(26)00067-9"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/12/26 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/02/13 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/02/27 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/03/17 00:33"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/03/03 00:30"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/03/02 19:13"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "European journal of pharmaceutical sciences : official journal of the European Federation for Pharmaceutical Sciences",
+      "elocationid": "doi: 10.1016/j.ejps.2026.107493",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/05/01 00:00",
+      "sortfirstauthor": "Huang Q",
+      "vernaculartitle": ""
+    },
+    "41594073": {
+      "uid": "41594073",
+      "pubdate": "2026 Jan 1",
+      "epubdate": "2026 Jan 1",
+      "source": "Antibiotics (Basel)",
+      "authors": [
+        {
+          "name": "Arciola CR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Panichi V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bua G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Costantini S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bottau G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ravaioli S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Capponi E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Campoccia D",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Campoccia D",
+      "title": "Smart Healing for Wound Repair: Emerging Multifunctional Strategies in Personalized Regenerative Medicine and Their Relevance to Orthopedics.",
+      "sorttitle": "smart healing for wound repair emerging multifunctional strategies in personalized regenerative medicine and their relevance to orthopedics",
+      "volume": "15",
+      "issue": "1",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101637404",
+      "issn": "2079-6382",
+      "essn": "2079-6382",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41594073"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12837584"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12837584;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/antibiotics15010036"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "antibiotics15010036"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/11/26 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/12/15 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/12/20 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/28 07:48"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/28 07:47"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/28 01:00"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/01/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 137,
+      "fulljournalname": "Antibiotics (Basel, Switzerland)",
+      "elocationid": "doi: 10.3390/antibiotics15010036",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "Arciola CR",
+      "vernaculartitle": ""
+    },
+    "41511598": {
+      "uid": "41511598",
+      "pubdate": "2025 Sep",
+      "epubdate": "2026 Jan 9",
+      "source": "Bull Exp Biol Med",
+      "authors": [
+        {
+          "name": "Alferova ME",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bobyntsev II",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vorvul AO",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tenkova AN",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Tenkova AN",
+      "title": "Anxiolytic Effect of GHK-PGP Peptide and Its Structural Analogues in a Test with Punished Behavior.",
+      "sorttitle": "anxiolytic effect of ghk pgp peptide and its structural analogues in a test with punished behavior",
+      "volume": "179",
+      "issue": "5",
+      "pages": "575-578",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0372557",
+      "issn": "0007-4888",
+      "essn": "1573-8221",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41511598"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s10517-026-06528-w"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s10517-026-06528-w"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/01/30 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/02/13 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/24 06:35"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/09 13:32"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/09 11:52"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Bulletin of experimental biology and medicine",
+      "elocationid": "doi: 10.1007/s10517-026-06528-w",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/09/01 00:00",
+      "sortfirstauthor": "Alferova ME",
+      "vernaculartitle": ""
+    },
+    "41490200": {
+      "uid": "41490200",
+      "pubdate": "2026 Jan 1",
+      "epubdate": "2026 Jan 2",
+      "source": "J Am Acad Orthop Surg Glob Res Rev",
+      "authors": [
+        {
+          "name": "Rahman OF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lee SJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Seeds WA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Seeds WA",
+      "title": "Therapeutic Peptides in Orthopaedics: Applications, Challenges, and Future Directions.",
+      "sorttitle": "therapeutic peptides in orthopaedics applications challenges and future directions",
+      "volume": "10",
+      "issue": "1",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101724868",
+      "issn": "",
+      "essn": "2474-7661",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41490200"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12753158"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12753158;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.5435/JAAOSGlobal-D-25-00236"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "01979360-202601000-00001"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/06/25 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/11/09 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/06 13:07"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/06 13:06"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/06 10:34"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/01/02 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 53,
+      "fulljournalname": "Journal of the American Academy of Orthopaedic Surgeons. Global research & reviews",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/02 00:00",
+      "sortfirstauthor": "Rahman OF",
+      "vernaculartitle": ""
+    },
+    "41476424": {
+      "uid": "41476424",
+      "pubdate": "2026 Jan",
+      "epubdate": "2026 Jan 1",
+      "source": "Am J Sports Med",
+      "authors": [
+        {
+          "name": "Mayfield CK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bolia IK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Feingold CL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lin EH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu JN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rick Hatch GF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gamradt SC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Weber AE",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Weber AE",
+      "title": "Injectable Peptide Therapy: A Primer for Orthopaedic and Sports Medicine Physicians.",
+      "sorttitle": "injectable peptide therapy a primer for orthopaedic and sports medicine physicians",
+      "volume": "54",
+      "issue": "1",
+      "pages": "223-229",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7609541",
+      "issn": "0363-5465",
+      "essn": "1552-3365",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41476424"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1177/03635465251357593"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/01 07:39"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/01 07:38"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/01 03:03"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The American journal of sports medicine",
+      "elocationid": "doi: 10.1177/03635465251357593",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "Mayfield CK",
+      "vernaculartitle": ""
+    },
+    "41371501": {
+      "uid": "41371501",
+      "pubdate": "2026 Feb 10",
+      "epubdate": "2025 Dec 8",
+      "source": "J Control Release",
+      "authors": [
+        {
+          "name": "Wang R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xu Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Saiding Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ling S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yu J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhuang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cui W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen X",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Chen X",
+      "title": "Golgi-targeted copper delivery strategy via enhancing copper-dependent proteins' activity for fascia regeneration.",
+      "sorttitle": "golgi targeted copper delivery strategy via enhancing copper dependent proteins activity for fascia regeneration",
+      "volume": "390",
+      "issue": "",
+      "pages": "114521",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8607908",
+      "issn": "0168-3659",
+      "essn": "1873-4995",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41371501"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jconrel.2025.114521"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0168-3659(25)01135-6"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/08/11 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/11/27 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/12/07 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/20 00:37"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/11 01:22"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/10 19:33"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of controlled release : official journal of the Controlled Release Society",
+      "elocationid": "doi: 10.1016/j.jconrel.2025.114521",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/10 00:00",
+      "sortfirstauthor": "Wang R",
+      "vernaculartitle": ""
+    },
+    "40716276": {
+      "uid": "40716276",
+      "pubdate": "2025 Dec",
+      "epubdate": "2025 Jul 25",
+      "source": "Colloids Surf B Biointerfaces",
+      "authors": [
+        {
+          "name": "Hu D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gong S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ma W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cheng B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yan L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Qiu T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang X",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wang X",
+      "title": "An injectable hydroxyapatite microsphere filler loaded with GHK-Cu tripeptide for anti-Inflammatory and antioxidant.",
+      "sorttitle": "injectable hydroxyapatite microsphere filler loaded with ghk cu tripeptide for anti inflammatory and antioxidant",
+      "volume": "256",
+      "issue": "Pt 1",
+      "pages": "114982",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9315133",
+      "issn": "0927-7765",
+      "essn": "1873-4367",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40716276"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.colsurfb.2025.114982"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0927-7765(25)00489-8"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/04/09 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/06/01 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/07/23 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/09/11 00:28"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/07/29 04:06"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/07/27 18:06"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Colloids and surfaces. B, Biointerfaces",
+      "elocationid": "doi: 10.1016/j.colsurfb.2025.114982",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/01 00:00",
+      "sortfirstauthor": "Hu D",
+      "vernaculartitle": ""
+    },
+    "40672369": {
+      "uid": "40672369",
+      "pubdate": "2025",
+      "epubdate": "2025 Jul 2",
+      "source": "Front Pharmacol",
+      "authors": [
+        {
+          "name": "Mao S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huang J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sun F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cheng Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zeng W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lei D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yao J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Yao J",
+      "title": "Exploring the beneficial effects of GHK-Cu on an experimental model of colitis and the underlying mechanisms.",
+      "sorttitle": "exploring the beneficial effects of ghk cu on an experimental model of colitis and the underlying mechanisms",
+      "volume": "16",
+      "issue": "",
+      "pages": "1551843",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101548923",
+      "issn": "1663-9812",
+      "essn": "1663-9812",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40672369"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12263609"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12263609;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3389/fphar.2025.1551843"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "1551843"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2024/12/26 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/06/09 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/07/17 06:28"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/07/17 06:27"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/07/17 05:34"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/07/02 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 59,
+      "fulljournalname": "Frontiers in pharmacology",
+      "elocationid": "doi: 10.3389/fphar.2025.1551843",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/07/02 00:00",
+      "sortfirstauthor": "Mao S",
+      "vernaculartitle": ""
+    },
+    "40123442": {
+      "uid": "40123442",
+      "pubdate": "2025 Apr 16",
+      "epubdate": "2025 Mar 24",
+      "source": "Bioconjug Chem",
+      "authors": [
+        {
+          "name": "Greco V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lanza V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tomasello B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Naletova I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cairns WRL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sciuto S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rizzarelli E",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Rizzarelli E",
+      "title": "Copper Complexes with New Glycyl-l-histidyl-l-lysine-Hyaluronan Conjugates Show Antioxidant Properties and Osteogenic and Angiogenic Synergistic Effects.",
+      "sorttitle": "copper complexes with new glycyl l histidyl l lysine hyaluronan conjugates show antioxidant properties and osteogenic and angiogenic synergistic effects",
+      "volume": "36",
+      "issue": "4",
+      "pages": "662-675",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9010319",
+      "issn": "1043-1802",
+      "essn": "1520-4812",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40123442"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1021/acs.bioconjchem.4c00545"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/04/16 06:19"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/03/24 06:30"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/03/24 04:32"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Bioconjugate chemistry",
+      "elocationid": "doi: 10.1021/acs.bioconjchem.4c00545",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/04/16 00:00",
+      "sortfirstauthor": "Greco V",
+      "vernaculartitle": ""
+    },
+    "40019920": {
+      "uid": "40019920",
+      "pubdate": "2025 Mar 12",
+      "epubdate": "2025 Feb 28",
+      "source": "ACS Appl Mater Interfaces",
+      "authors": [
+        {
+          "name": "Jeon N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kim L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Choi SG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lee H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Min JY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kim HM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Han EH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lee E",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Lee E",
+      "title": "Self-Assembled Peptide-Gold Nanoparticle 1D Nanohybrids Functionalized with GHK Tripeptide for Enhanced Wound-Healing and Photothermal Therapy.",
+      "sorttitle": "self assembled peptide gold nanoparticle 1d nanohybrids functionalized with ghk tripeptide for enhanced wound healing and photothermal therapy",
+      "volume": "17",
+      "issue": "10",
+      "pages": "15080-15096",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101504991",
+      "issn": "1944-8244",
+      "essn": "1944-8252",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40019920"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1021/acsami.4c21924"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/03/13 06:27"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/02/28 18:22"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/02/28 13:42"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "ACS applied materials & interfaces",
+      "elocationid": "doi: 10.1021/acsami.4c21924",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/03/12 00:00",
+      "sortfirstauthor": "Jeon N",
+      "vernaculartitle": ""
+    },
+    "39963574": {
+      "uid": "39963574",
+      "pubdate": "2025",
+      "epubdate": "2024 Apr 28",
+      "source": "Bioimpacts",
+      "authors": [
+        {
+          "name": "Mortazavi SM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mohammadi Vadoud SA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Moghimi HR",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Moghimi HR",
+      "title": "Topically applied GHK as an anti-wrinkle peptide: Advantages, problems and prospective.",
+      "sorttitle": "topically applied ghk as an anti wrinkle peptide advantages problems and prospective",
+      "volume": "15",
+      "issue": "",
+      "pages": "30071",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101558125",
+      "issn": "2228-5652",
+      "essn": "2228-5660",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39963574"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11830136"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11830136;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.34172/bi.30071"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2023/08/26 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2023/10/26 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2023/10/31 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/02/18 06:23"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/02/18 06:22"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/02/18 04:21"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2024/04/28 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 47,
+      "fulljournalname": "BioImpacts : BI",
+      "elocationid": "doi: 10.34172/bi.30071",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2024/04/28 00:00",
+      "sortfirstauthor": "Mortazavi SM",
+      "vernaculartitle": ""
+    },
+    "39902373": {
+      "uid": "39902373",
+      "pubdate": "2025",
+      "epubdate": "2025 Feb 3",
+      "source": "Biomater Res",
+      "authors": [
+        {
+          "name": "Chen H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xue P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dan X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lei L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fan X",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Fan X",
+      "title": "Food-Derived Tripeptide-Copper Self-Healing Hydrogel for Infected Wound Healing.",
+      "sorttitle": "food derived tripeptide copper self healing hydrogel for infected wound healing",
+      "volume": "29",
+      "issue": "",
+      "pages": "0139",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101650636",
+      "issn": "1226-4601",
+      "essn": "2055-7124",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39902373"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11788471"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11788471;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.34133/bmr.0139"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "0139"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2024/10/30 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2024/12/14 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/01/05 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/02/04 06:22"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/02/04 06:21"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/02/04 04:11"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/02/03 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 38,
+      "fulljournalname": "Biomaterials research",
+      "elocationid": "doi: 10.34133/bmr.0139",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/02/03 00:00",
+      "sortfirstauthor": "Chen H",
+      "vernaculartitle": ""
+    },
+    "39795193": {
+      "uid": "39795193",
+      "pubdate": "2025 Jan 1",
+      "epubdate": "2025 Jan 1",
+      "source": "Molecules",
+      "authors": [
+        {
+          "name": "Og\u00f3rek K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nowak K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wadych E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ruzik L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Timerbaev AR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Matczuk M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Matczuk M",
+      "title": "Are We Ready to Measure Skin Permeation of Modern Antiaging GHK-Cu Tripeptide Encapsulated in Liposomes?",
+      "sorttitle": "are we ready to measure skin permeation of modern antiaging ghk cu tripeptide encapsulated in liposomes",
+      "volume": "30",
+      "issue": "1",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100964009",
+      "issn": "",
+      "essn": "1420-3049",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39795193"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11721469"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11721469;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/molecules30010136"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "molecules30010136"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2024/11/06 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2024/12/20 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2024/12/23 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/01/11 13:58"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/01/11 13:57"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/01/11 01:03"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/01/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 100,
+      "fulljournalname": "Molecules (Basel, Switzerland)",
+      "elocationid": "doi: 10.3390/molecules30010136",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/01/01 00:00",
+      "sortfirstauthor": "Og\u00f3rek K",
+      "vernaculartitle": ""
+    },
+    "39632290": {
+      "uid": "39632290",
+      "pubdate": "2025 Jan",
+      "epubdate": "2024 Nov 28",
+      "source": "Biochem Biophys Res Commun",
+      "authors": [
+        {
+          "name": "Hong M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gui Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xu J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhao X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jiang C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhao J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xin X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tang X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tang R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "An F",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "An F",
+      "title": "Palmitoyl copper peptide and acetyl tyrosine complex enhances melanin production in both A375 and B16\u00a0cell lines.",
+      "sorttitle": "palmitoyl copper peptide and acetyl tyrosine complex enhances melanin production in both a375 and b16 cell lines",
+      "volume": "742",
+      "issue": "",
+      "pages": "151060",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0372516",
+      "issn": "0006-291X",
+      "essn": "1090-2104",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39632290"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.bbrc.2024.151060"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-291X(24)01596-1"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2024/11/11 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2024/11/20 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2024/11/22 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2024/12/20 00:23"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2024/12/05 05:31"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2024/12/04 23:10"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Biochemical and biophysical research communications",
+      "elocationid": "doi: 10.1016/j.bbrc.2024.151060",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/01/01 00:00",
+      "sortfirstauthor": "Hong M",
+      "vernaculartitle": ""
+    },
+    "39451062": {
+      "uid": "39451062",
+      "pubdate": "2024 Nov",
+      "epubdate": "2024 Oct 25",
+      "source": "Electrophoresis",
+      "authors": [
+        {
+          "name": "Zajda J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wadych E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Og\u00f3rek K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Drozd M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Matczuk M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Matczuk M",
+      "title": "Novel Applications of CE-ICP-MS/MS: Monitoring of Antiaging GHK-Cu Cosmetic Component Encapsulation in Liposomes.",
+      "sorttitle": "novel applications of ce icp ms ms monitoring of antiaging ghk cu cosmetic component encapsulation in liposomes",
+      "volume": "45",
+      "issue": "21-22",
+      "pages": "1946-1954",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8204476",
+      "issn": "0173-0835",
+      "essn": "1522-2683",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39451062"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/elps.202400047"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2024/10/04 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2024/03/05 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2024/10/09 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2024/12/21 16:43"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2024/10/25 12:24"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2024/10/25 09:13"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Electrophoresis",
+      "elocationid": "doi: 10.1002/elps.202400047",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2024/11/01 00:00",
+      "sortfirstauthor": "Zajda J",
+      "vernaculartitle": ""
+    },
+    "38879894": {
+      "uid": "38879894",
+      "pubdate": "2024 Sep",
+      "epubdate": "2024 Jun 14",
+      "source": "Redox Biol",
+      "authors": [
+        {
+          "name": "Bian Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Deng M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liao L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Miao J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhou X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hou G",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Hou G",
+      "title": "The glycyl-l-histidyl-l-lysine-Cu(2+) tripeptide complex attenuates lung inflammation and fibrosis in silicosis by targeting peroxiredoxin 6.",
+      "sorttitle": "glycyl l histidyl l lysine cu 2 tripeptide complex attenuates lung inflammation and fibrosis in silicosis by targeting peroxiredoxin 6",
+      "volume": "75",
+      "issue": "",
+      "pages": "103237",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101605639",
+      "issn": "",
+      "essn": "2213-2317",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38879894"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11228880"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11228880;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.redox.2024.103237"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2213-2317(24)00215-5"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2024/05/16 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2024/06/06 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2024/06/09 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2024/08/22 00:42"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2024/06/16 18:46"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2024/06/16 17:59"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2024/06/14 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 35,
+      "fulljournalname": "Redox biology",
+      "elocationid": "doi: 10.1016/j.redox.2024.103237",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2024/09/01 00:00",
+      "sortfirstauthor": "Bian Y",
+      "vernaculartitle": ""
+    },
+    "38599632": {
+      "uid": "38599632",
+      "pubdate": "2024 May 2",
+      "epubdate": "",
+      "source": "Metallomics",
+      "authors": [
+        {
+          "name": "Min JH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sarlus H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Harris RA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Harris RA",
+      "title": "Glycyl-l-histidyl-l-lysine prevents copper- and zinc-induced protein aggregation and central nervous system cell death in vitro.",
+      "sorttitle": "glycyl l histidyl l lysine prevents copper and zinc induced protein aggregation and central nervous system cell death in vitro",
+      "volume": "16",
+      "issue": "5",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101478346",
+      "issn": "1756-5901",
+      "essn": "1756-591X",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38599632"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11135135"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11135135;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1093/mtomcs/mfae019"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "7643839"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2023/10/09 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2024/04/09 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2024/05/29 12:43"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2024/04/11 00:42"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2024/04/10 20:33"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2024/04/10 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 134,
+      "fulljournalname": "Metallomics : integrated biometal science",
+      "elocationid": "doi: 10.1093/mtomcs/mfae019",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2024/05/02 00:00",
+      "sortfirstauthor": "Min JH",
+      "vernaculartitle": ""
+    },
+    "38394858": {
+      "uid": "38394858",
+      "pubdate": "2024 Apr",
+      "epubdate": "2024 Jan 30",
+      "source": "Colloids Surf B Biointerfaces",
+      "authors": [
+        {
+          "name": "Wang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lin J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yu Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cheng J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cheng J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cui W",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Cui W",
+      "title": "Rigid-flexible nanocarriers loaded with active peptides for antioxidant and anti-inflammatory applications in skin.",
+      "sorttitle": "rigid flexible nanocarriers loaded with active peptides for antioxidant and anti inflammatory applications in skin",
+      "volume": "236",
+      "issue": "",
+      "pages": "113772",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9315133",
+      "issn": "0927-7765",
+      "essn": "1873-4367",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38394858"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.colsurfb.2024.113772"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0927-7765(24)00030-4"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2023/12/13 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2024/01/18 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2024/01/27 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2024/03/20 06:45"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2024/02/24 11:42"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2024/02/23 18:06"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Colloids and surfaces. B, Biointerfaces",
+      "elocationid": "doi: 10.1016/j.colsurfb.2024.113772",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2024/04/01 00:00",
+      "sortfirstauthor": "Wang Y",
+      "vernaculartitle": ""
+    },
+    "38345677": {
+      "uid": "38345677",
+      "pubdate": "2024 Jan",
+      "epubdate": "2024 Feb 12",
+      "source": "Bull Exp Biol Med",
+      "authors": [
+        {
+          "name": "Rakhmetova KK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mishina ES",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bobyntsev II",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bezhin AI",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vorvul AO",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Vorvul AO",
+      "title": "Effects of Gly-His-Lys-D-Ala Peptide on Skin Wound Regeneration Processes.",
+      "sorttitle": "effects of gly his lys d ala peptide on skin wound regeneration processes",
+      "volume": "176",
+      "issue": "3",
+      "pages": "411-416",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0372557",
+      "issn": "0007-4888",
+      "essn": "1573-8221",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38345677"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s10517-024-06035-w"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s10517-024-06035-w"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2023/05/31 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2024/02/22 06:42"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2024/02/12 15:43"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2024/02/12 11:09"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Bulletin of experimental biology and medicine",
+      "elocationid": "doi: 10.1007/s10517-024-06035-w",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2024/01/01 00:00",
+      "sortfirstauthor": "Rakhmetova KK",
+      "vernaculartitle": ""
+    },
+    "40766919": {
+      "uid": "40766919",
+      "pubdate": "2024",
+      "epubdate": "2024 Sep 30",
+      "source": "Aging Pathobiol Ther",
+      "authors": [
+        {
+          "name": "Tucker M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liao GY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Keely A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Park JY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rosenfeld M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wezeman J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mangalindan R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ratner D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Darvas M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ladiges W",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Ladiges W",
+      "title": "Behavioral and neuropathological features of Alzheimer's disease are attenuated in 5xFAD mice treated with intranasal GHK peptide.",
+      "sorttitle": "behavioral and neuropathological features of alzheimer s disease are attenuated in 5xfad mice treated with intranasal ghk peptide",
+      "volume": "6",
+      "issue": "3",
+      "pages": "102-108",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101769499",
+      "issn": "",
+      "essn": "2690-1803",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40766919"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS2033144"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12323558"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12323558;manuscript-id: NIHMS2033144;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.31491/apt.2024.09.148"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2024/01/01 00:01"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2024/01/01 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/08/06 05:27"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/08/05 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "bioRxiv. 2023 Nov 21:2023.11.20.567908. doi: 10.1101/2023.11.20.567908.",
+          "reftype": "Update of",
+          "pmid": 38045355,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 48,
+      "fulljournalname": "Aging pathobiology and therapeutics",
+      "elocationid": "doi: 10.31491/apt.2024.09.148",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2024/01/01 00:00",
+      "sortfirstauthor": "Tucker M",
+      "vernaculartitle": ""
+    },
+    "38045355": {
+      "uid": "38045355",
+      "pubdate": "2023 Nov 21",
+      "epubdate": "2023 Nov 21",
+      "source": "bioRxiv",
+      "authors": [
+        {
+          "name": "Tucker M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liao GY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Park JY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rosenfeld M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wezeman J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mangalindan R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ratner D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Darvas M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ladiges W",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Ladiges W",
+      "title": "Behavioral and neuropathological features of Alzheimer's disease are attenuated in 5xFAD mice treated with intranasal GHK peptide.",
+      "sorttitle": "behavioral and neuropathological features of alzheimer s disease are attenuated in 5xfad mice treated with intranasal ghk peptide",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101680187",
+      "issn": "",
+      "essn": "2692-8205",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38045355"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10690187"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10690187;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1101/2023.11.20.567908"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "2023.11.20.567908"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2023/12/04 06:42"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2023/12/04 06:43"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2023/12/04 04:35"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2023/12/01 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Aging Pathobiol Ther. 2024;6(3):102-108. doi: 10.31491/apt.2024.09.148.",
+          "reftype": "Update in",
+          "pmid": 40766919,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 49,
+      "fulljournalname": "bioRxiv : the preprint server for biology",
+      "elocationid": "pii: 2023.11.20.567908. doi: 10.1101/2023.11.20.567908",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2023/11/21 00:00",
+      "sortfirstauthor": "Tucker M",
+      "vernaculartitle": ""
+    },
+    "38026438": {
+      "uid": "38026438",
+      "pubdate": "2024 Feb",
+      "epubdate": "2023 Nov 1",
+      "source": "Bioact Mater",
+      "authors": [
+        {
+          "name": "Liu T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhao X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bai D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liao Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Zhang J",
+      "title": "Thermodynamically stable ionic liquid microemulsions pioneer pathways for topical delivery and peptide application.",
+      "sorttitle": "thermodynamically stable ionic liquid microemulsions pioneer pathways for topical delivery and peptide application",
+      "volume": "32",
+      "issue": "",
+      "pages": "502-513",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101685294",
+      "issn": "",
+      "essn": "2452-199X",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38026438"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10643103"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10643103;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.bioactmat.2023.10.002"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2452-199X(23)00307-9"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2023/06/14 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2023/09/09 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2023/10/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2023/11/29 18:43"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2023/11/29 18:42"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2023/11/29 16:53"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2023/11/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 67,
+      "fulljournalname": "Bioactive materials",
+      "elocationid": "doi: 10.1016/j.bioactmat.2023.10.002",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2023/11/01 00:00",
+      "sortfirstauthor": "Liu T",
+      "vernaculartitle": ""
+    },
+    "38014118": {
+      "uid": "38014118",
+      "pubdate": "2023 Nov 17",
+      "epubdate": "2023 Nov 17",
+      "source": "bioRxiv",
+      "authors": [
+        {
+          "name": "Tucker M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Keely A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Park JY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rosenfeld M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wezeman J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mangalindan R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ratner D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ladiges W",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Ladiges W",
+      "title": "Intranasal GHK peptide enhances resilience to cognitive decline in aging mice.",
+      "sorttitle": "intranasal ghk peptide enhances resilience to cognitive decline in aging mice",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101680187",
+      "issn": "",
+      "essn": "2692-8205",
+      "pubtype": [
+        "Preprint",
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38014118"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10680828"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10680828;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1101/2023.11.16.567423"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "2023.11.16.567423"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2023/11/28 06:42"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2023/11/28 06:43"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2023/11/28 04:02"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2023/11/27 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 35,
+      "fulljournalname": "bioRxiv : the preprint server for biology",
+      "elocationid": "pii: 2023.11.16.567423. doi: 10.1101/2023.11.16.567423",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2023/11/17 00:00",
+      "sortfirstauthor": "Tucker M",
+      "vernaculartitle": ""
+    },
+    "37896245": {
+      "uid": "37896245",
+      "pubdate": "2023 Oct 18",
+      "epubdate": "2023 Oct 18",
+      "source": "Pharmaceutics",
+      "authors": [
+        {
+          "name": "Dymek M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Olechowska K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "H\u0105c-Wydro K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sikora E",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Sikora E",
+      "title": "Liposomes as Carriers of GHK-Cu Tripeptide for Cosmetic Application.",
+      "sorttitle": "liposomes as carriers of ghk cu tripeptide for cosmetic application",
+      "volume": "15",
+      "issue": "10",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101534003",
+      "issn": "1999-4923",
+      "essn": "1999-4923",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37896245"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10610410"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10610410;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/pharmaceutics15102485"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "pharmaceutics15102485"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2023/09/13 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2023/10/13 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2023/10/16 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2023/10/28 11:44"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2023/10/28 11:43"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2023/10/28 01:26"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2023/10/18 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 92,
+      "fulljournalname": "Pharmaceutics",
+      "elocationid": "doi: 10.3390/pharmaceutics15102485",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2023/10/18 00:00",
+      "sortfirstauthor": "Dymek M",
+      "vernaculartitle": ""
+    },
+    "37830186": {
+      "uid": "37830186",
+      "pubdate": "2023 Nov 3",
+      "epubdate": "2023 Oct 13",
+      "source": "J Org Chem",
+      "authors": [
+        {
+          "name": "Sahu R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yadav S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gunturu KC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kapdi AR",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Kapdi AR",
+      "title": "Phenothiazine-Based Cu(II)-Selective Fluorescent Sensor: GHK-Cu Sensing Applications.",
+      "sorttitle": "phenothiazine based cu ii selective fluorescent sensor ghk cu sensing applications",
+      "volume": "88",
+      "issue": "21",
+      "pages": "15118-15129",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "2985193R",
+      "issn": "0022-3263",
+      "essn": "1520-6904",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37830186"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1021/acs.joc.3c01600"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2023/10/13 06:47"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2023/10/13 06:46"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2023/10/13 04:43"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Journal of organic chemistry",
+      "elocationid": "doi: 10.1021/acs.joc.3c01600",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2023/11/03 00:00",
+      "sortfirstauthor": "Sahu R",
+      "vernaculartitle": ""
+    },
+    "37624577": {
+      "uid": "37624577",
+      "pubdate": "2023 Sep 12",
+      "epubdate": "2023 Aug 25",
+      "source": "Anal Chem",
+      "authors": [
+        {
+          "name": "An P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sun CL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Qin C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Li J",
+      "title": "Ultrasensitive and Label-Free Detection of Copper Ions by GHK-Modified Asymmetric Nanochannels.",
+      "sorttitle": "ultrasensitive and label free detection of copper ions by ghk modified asymmetric nanochannels",
+      "volume": "95",
+      "issue": "36",
+      "pages": "13456-13462",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0370536",
+      "issn": "0003-2700",
+      "essn": "1520-6882",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37624577"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1021/acs.analchem.3c01174"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2023/08/25 12:42"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2023/08/25 12:41"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2023/08/25 11:12"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Analytical chemistry",
+      "elocationid": "doi: 10.1021/acs.analchem.3c01174",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2023/09/12 00:00",
+      "sortfirstauthor": "An P",
+      "vernaculartitle": ""
+    },
+    "37381226": {
+      "uid": "37381226",
+      "pubdate": "2023 Jun 19",
+      "epubdate": "",
+      "source": "Opt Express",
+      "authors": [
+        {
+          "name": "Ren Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wei Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shi C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu Z",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Liu Z",
+      "title": "Multi working mode SPR chip laboratory for high refractive index detection.",
+      "sorttitle": "multi working mode spr chip laboratory for high refractive index detection",
+      "volume": "31",
+      "issue": "13",
+      "pages": "21212-21224",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101137103",
+      "issn": "",
+      "essn": "1094-4087",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37381226"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1364/OE.493337"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "531365"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2023/06/29 06:44"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2023/06/29 06:43"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2023/06/29 01:08"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Optics express",
+      "elocationid": "doi: 10.1364/OE.493337",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2023/06/19 00:00",
+      "sortfirstauthor": "Ren Z",
+      "vernaculartitle": ""
+    },
+    "37257226": {
+      "uid": "37257226",
+      "pubdate": "2023 Aug",
+      "epubdate": "2023 May 29",
+      "source": "Biomed Pharmacother",
+      "authors": [
+        {
+          "name": "Zhang Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Deng MM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tong R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hou G",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Hou G",
+      "title": "Relief of ovalbumin-induced airway remodeling by the glycyl-l-histidyl-l-lysine-Cu(2+) tripeptide complex via activation of SIRT1 in airway epithelial cells.",
+      "sorttitle": "relief of ovalbumin induced airway remodeling by the glycyl l histidyl l lysine cu 2 tripeptide complex via activation of sirt1 in airway epithelial cells",
+      "volume": "164",
+      "issue": "",
+      "pages": "114936",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8213295",
+      "issn": "0753-3322",
+      "essn": "1950-6007",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37257226"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.biopha.2023.114936"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0753-3322(23)00726-6"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2023/01/26 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2023/05/13 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2023/05/22 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2023/06/22 06:42"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2023/06/01 01:08"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2023/05/31 18:01"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "elocationid": "doi: 10.1016/j.biopha.2023.114936",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2023/08/01 00:00",
+      "sortfirstauthor": "Zhang Q",
+      "vernaculartitle": ""
+    },
+    "37180036": {
+      "uid": "37180036",
+      "pubdate": "2023",
+      "epubdate": "2023 Apr 25",
+      "source": "Front Bioeng Biotechnol",
+      "authors": [
+        {
+          "name": "Wang F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yu X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yu Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cui Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xu L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huo S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ding Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhao L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Du L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Qiu Y",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Qiu Y",
+      "title": "Improved laccase production by Trametes versicolor using Copper-Glycyl-L-Histidyl-L-Lysine as a novel and high-efficient inducer.",
+      "sorttitle": "improved laccase production by trametes versicolor using copper glycyl l histidyl l lysine as a novel and high efficient inducer",
+      "volume": "11",
+      "issue": "",
+      "pages": "1176352",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101632513",
+      "issn": "2296-4185",
+      "essn": "2296-4185",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37180036"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10167017"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10167017;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3389/fbioe.2023.1176352"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "1176352"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2023/02/28 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2023/04/14 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2023/05/14 13:10"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2023/05/14 13:11"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2023/05/14 12:00"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2023/01/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 38,
+      "fulljournalname": "Frontiers in bioengineering and biotechnology",
+      "elocationid": "doi: 10.3389/fbioe.2023.1176352",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2023/04/25 00:00",
+      "sortfirstauthor": "Wang F",
+      "vernaculartitle": ""
+    },
+    "37107176": {
+      "uid": "37107176",
+      "pubdate": "2023 Mar 25",
+      "epubdate": "2023 Mar 25",
+      "source": "Antioxidants (Basel)",
+      "authors": [
+        {
+          "name": "Ha JW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Choi JY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Boo YC",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Boo YC",
+      "title": "Differential Effects of Histidine and Histidinamide versus Cysteine and Cysteinamide on Copper Ion-Induced Oxidative Stress and Cytotoxicity in HaCaT Keratinocytes.",
+      "sorttitle": "differential effects of histidine and histidinamide versus cysteine and cysteinamide on copper ion induced oxidative stress and cytotoxicity in hacat keratinocytes",
+      "volume": "12",
+      "issue": "4",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101668981",
+      "issn": "2076-3921",
+      "essn": "2076-3921",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37107176"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10135049"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10135049;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/antiox12040801"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "antiox12040801"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2023/03/02 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2023/03/21 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2023/03/24 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2023/04/28 06:43"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2023/04/28 06:42"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2023/04/28 01:19"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2023/03/25 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 53,
+      "fulljournalname": "Antioxidants (Basel, Switzerland)",
+      "elocationid": "doi: 10.3390/antiox12040801",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2023/03/25 00:00",
+      "sortfirstauthor": "Ha JW",
+      "vernaculartitle": ""
+    },
+    "37062921": {
+      "uid": "37062921",
+      "pubdate": "2023 Sep",
+      "epubdate": "2023 Apr 16",
+      "source": "J Cosmet Dermatol",
+      "authors": [
+        {
+          "name": "Jiang F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wu Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hong M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Huang Y",
+      "title": "Synergy of GHK-Cu and hyaluronic acid on collagen IV upregulation via fibroblast and ex-vivo skin tests.",
+      "sorttitle": "synergy of ghk cu and hyaluronic acid on collagen iv upregulation via fibroblast and ex vivo skin tests",
+      "volume": "22",
+      "issue": "9",
+      "pages": "2598-2604",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101130964",
+      "issn": "1473-2130",
+      "essn": "1473-2165",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37062921"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/jocd.15763"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2023/03/20 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2023/02/08 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2023/03/27 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2023/08/14 06:42"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2023/04/18 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2023/04/17 01:42"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of cosmetic dermatology",
+      "elocationid": "doi: 10.1111/jocd.15763",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2023/09/01 00:00",
+      "sortfirstauthor": "Jiang F",
+      "vernaculartitle": ""
+    },
+    "36905132": {
+      "uid": "36905132",
+      "pubdate": "2023 Jun",
+      "epubdate": "2023 Mar 10",
+      "source": "J Cachexia Sarcopenia Muscle",
+      "authors": [
+        {
+          "name": "Deng M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yan L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bian Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gao J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Miao J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhou X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hou G",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Hou G",
+      "title": "Glycyl-l-histidyl-l-lysine-Cu(2+) rescues cigarette smoking-induced skeletal muscle dysfunction via a sirtuin 1-dependent pathway.",
+      "sorttitle": "glycyl l histidyl l lysine cu 2 rescues cigarette smoking induced skeletal muscle dysfunction via a sirtuin 1 dependent pathway",
+      "volume": "14",
+      "issue": "3",
+      "pages": "1365-1380",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101552883",
+      "issn": "2190-5991",
+      "essn": "2190-6009",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36905132"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10235902"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10235902;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/jcsm.13213"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2023/01/21 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2022/09/04 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2023/02/02 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2023/06/05 06:42"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2023/03/12 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2023/03/11 01:43"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2023/03/10 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 40,
+      "fulljournalname": "Journal of cachexia, sarcopenia and muscle",
+      "elocationid": "doi: 10.1002/jcsm.13213",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2023/06/01 00:00",
+      "sortfirstauthor": "Deng M",
+      "vernaculartitle": ""
+    }
+  }
+}

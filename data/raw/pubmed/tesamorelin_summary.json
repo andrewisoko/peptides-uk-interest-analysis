@@ -1,0 +1,3376 @@
+{
+  "result": {
+    "uids": [
+      "42538058",
+      "42419889",
+      "42395176",
+      "42382101",
+      "42160466",
+      "42139091",
+      "42139090",
+      "42123471",
+      "42018810",
+      "41966639",
+      "41879875",
+      "41598480",
+      "41545261",
+      "41490200",
+      "41476424",
+      "41138283",
+      "40510111",
+      "40397552",
+      "39813152",
+      "39746672",
+      "38905488",
+      "38416754",
+      "38197510",
+      "37806509",
+      "36845310",
+      "36461941"
+    ],
+    "42538058": {
+      "uid": "42538058",
+      "pubdate": "2026 Jan-Dec",
+      "epubdate": "2026 Jul 31",
+      "source": "J Int Assoc Provid AIDS Care",
+      "authors": [
+        {
+          "name": "Ditta AM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Naeem RM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sami MM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Abdul Rafey M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ali H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Amjad MW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jahangir F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rizvi KA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mohammad F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Abu Dawood H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Suleman M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Saddique MN",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Saddique MN",
+      "title": "Efficacy and Safety of Tesamorelin in People Living With HIV (PLWH) With Lipodystrophy: A Systematic Review and Meta-Analysis.",
+      "sorttitle": "efficacy and safety of tesamorelin in people living with hiv plwh with lipodystrophy a systematic review and meta analysis",
+      "volume": "25",
+      "issue": "",
+      "pages": "23259582261475549",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101603896",
+      "issn": "2325-9574",
+      "essn": "2325-9582",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42538058"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13428105"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13428105;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1177/23259582261475549"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/08/01 00:37"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/08/01 00:36"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/07/31 20:52"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/07/31 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 36,
+      "fulljournalname": "Journal of the International Association of Providers of AIDS Care",
+      "elocationid": "doi: 10.1177/23259582261475549",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "Ditta AM",
+      "vernaculartitle": ""
+    },
+    "42419889": {
+      "uid": "42419889",
+      "pubdate": "2026 Jul 8",
+      "epubdate": "2026 Jul 8",
+      "source": "BMJ Open",
+      "authors": [
+        {
+          "name": "Erlandson KM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gustafson L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Johnson JE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kulik GL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Khuu V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chahal N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Walpert AR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Galdamez ME",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zorgno I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Foldyna B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jarraya M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Reusch JE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lee H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Grinspoon SK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jankowski CM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fourman LT",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Fourman LT",
+      "title": "Tesamorelin as an Adjunct to Exercise for Improving Physical Function in HIV (TRIUMPH): a clinical trial protocol.",
+      "sorttitle": "tesamorelin as an adjunct to exercise for improving physical function in hiv triumph a clinical trial protocol",
+      "volume": "16",
+      "issue": "7",
+      "pages": "e120740",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101552874",
+      "issn": "",
+      "essn": "2044-6055",
+      "pubtype": [
+        "Journal Article",
+        "Clinical Trial Protocol"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42419889"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13347827"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13347827;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1136/bmjopen-2026-120740"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "bmjopen-2026-120740"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/07/09 04:11"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/07/09 04:10"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/07/08 21:13"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/07/08 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 74,
+      "fulljournalname": "BMJ open",
+      "elocationid": "doi: 10.1136/bmjopen-2026-120740",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/07/08 00:00",
+      "sortfirstauthor": "Erlandson KM",
+      "vernaculartitle": ""
+    },
+    "42395176": {
+      "uid": "42395176",
+      "pubdate": "2026",
+      "epubdate": "2026 Jun 18",
+      "source": "Front Endocrinol (Lausanne)",
+      "authors": [
+        {
+          "name": "Dominikowski A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "R\u0119ko\u015b Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Olejarz M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Szczepanek-Parulska E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Domin R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rucha\u0141a M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Rucha\u0141a M",
+      "title": "The emerging landscape of performance-enhancing peptides modulating GH-IGF1 axis: bridging the gap between clinical evidence and patient self-administration.",
+      "sorttitle": "emerging landscape of performance enhancing peptides modulating gh igf1 axis bridging the gap between clinical evidence and patient self administration",
+      "volume": "17",
+      "issue": "",
+      "pages": "1822475",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101555782",
+      "issn": "1664-2392",
+      "essn": "1664-2392",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42395176"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13322892"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13322892;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3389/fendo.2026.1822475"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/03/03 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/05/05 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/06/02 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/07/03 16:10"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/07/03 06:31"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/07/03 05:19"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/06/18 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 167,
+      "fulljournalname": "Frontiers in endocrinology",
+      "elocationid": "doi: 10.3389/fendo.2026.1822475",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/06/18 00:00",
+      "sortfirstauthor": "Dominikowski A",
+      "vernaculartitle": ""
+    },
+    "42382101": {
+      "uid": "42382101",
+      "pubdate": "2026 Sep",
+      "epubdate": "2026 Jun 17",
+      "source": "eNeurologicalSci",
+      "authors": [
+        {
+          "name": "Stewart CE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "French KP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wright TJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wilhoit K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Randolph KM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Danesi CP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gilkison CR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Karmonik C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lu L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dillon EL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Durham WJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Urban RJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sheffield-Moore M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Masel BE",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Masel BE",
+      "title": "The effect of growth hormone-releasing hormone on cognition and brain connectivity in adults with cognition ranging from normal to mild cognitive impairment.",
+      "sorttitle": "effect of growth hormone releasing hormone on cognition and brain connectivity in adults with cognition ranging from normal to mild cognitive impairment",
+      "volume": "44",
+      "issue": "",
+      "pages": "100616",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101667077",
+      "issn": "",
+      "essn": "2405-6502",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42382101"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13316082"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13316082;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ensci.2026.100616"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2405-6502(26)00013-4"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/12/18 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/05/19 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/06/12 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/07/01 10:12"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/07/01 10:11"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/07/01 05:08"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/06/17 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 42,
+      "fulljournalname": "eNeurologicalSci",
+      "elocationid": "doi: 10.1016/j.ensci.2026.100616",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/06/17 00:00",
+      "sortfirstauthor": "Stewart CE",
+      "vernaculartitle": ""
+    },
+    "42160466": {
+      "uid": "42160466",
+      "pubdate": "2026 May 1",
+      "epubdate": "2026 May 20",
+      "source": "JBJS Rev",
+      "authors": [
+        {
+          "name": "Villegas Meza AD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nocek M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mitchell BC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lizarraga M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "DeFoor MT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ruzbarsky JJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huard J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Philippon MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Philippon MJ",
+      "title": "Injectable Peptides in Sports Medicine: A Structured Narrative Review of Evidence, Safety, and Antidoping Implications.",
+      "sorttitle": "injectable peptides in sports medicine a structured narrative review of evidence safety and antidoping implications",
+      "volume": "14",
+      "issue": "5",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101674872",
+      "issn": "",
+      "essn": "2329-9185",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42160466"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2106/JBJS.RVW.26.00027"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "01874474-202605000-00002"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/05/20 18:34"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/05/20 18:33"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/05/20 14:13"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "JBJS reviews",
+      "elocationid": "doi: e26.00027",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/05/20 00:00",
+      "sortfirstauthor": "Villegas Meza AD",
+      "vernaculartitle": ""
+    },
+    "42139091": {
+      "uid": "42139091",
+      "pubdate": "2026 May 15",
+      "epubdate": "",
+      "source": "Clin Infect Dis",
+      "authors": [
+        {
+          "name": "Beach R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tims-Cook Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McGary CS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thote T",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Thote T",
+      "title": "Differing Presentations of Excess Visceral Abdominal Fat in People Living With HIV: Two Clinical Cases Highlighting Distinct Therapeutic Pathways With Tesamorelin and Glucagon-Like Peptide-1 Receptor Agonists.",
+      "sorttitle": "differing presentations of excess visceral abdominal fat in people living with hiv two clinical cases highlighting distinct therapeutic pathways with tesamorelin and glucagon like peptide 1 receptor agonists",
+      "volume": "82",
+      "issue": "Supplement_4",
+      "pages": "S87-S91",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9203213",
+      "issn": "1058-4838",
+      "essn": "1537-6591",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42139091"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1093/cid/ciag121"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "8678930"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/05/15 18:34"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/05/15 18:33"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/05/15 12:44"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+      "elocationid": "doi: 10.1093/cid/ciag121",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/05/15 00:00",
+      "sortfirstauthor": "Beach R",
+      "vernaculartitle": ""
+    },
+    "42139090": {
+      "uid": "42139090",
+      "pubdate": "2026 May 15",
+      "epubdate": "",
+      "source": "Clin Infect Dis",
+      "authors": [
+        {
+          "name": "Parienti JJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang SS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Grinspoon S",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Grinspoon S",
+      "title": "Selected Industry Highlights From IDWeek 2025.",
+      "sorttitle": "selected industry highlights from idweek 2025",
+      "volume": "82",
+      "issue": "Suppl 4",
+      "pages": "S85-S86",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9203213",
+      "issn": "1058-4838",
+      "essn": "1537-6591",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42139090"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1093/cid/ciag206"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "8678929"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/05/15 18:34"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/05/15 18:33"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/05/15 12:44"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+      "elocationid": "doi: 10.1093/cid/ciag206",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/05/15 00:00",
+      "sortfirstauthor": "Parienti JJ",
+      "vernaculartitle": ""
+    },
+    "42123471": {
+      "uid": "42123471",
+      "pubdate": "2026 Apr 27",
+      "epubdate": "2026 Apr 27",
+      "source": "Int J Mol Sci",
+      "authors": [
+        {
+          "name": "Renke G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chinellato L",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Chinellato L",
+      "title": "Therapeutic Peptides in Aesthetic, Metabolic and Endocrine Conditions: Effects, Safety, Clinical Applications, and Future Perspectives.",
+      "sorttitle": "therapeutic peptides in aesthetic metabolic and endocrine conditions effects safety clinical applications and future perspectives",
+      "volume": "27",
+      "issue": "9",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101092791",
+      "issn": "",
+      "essn": "1422-0067",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42123471"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13164565"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13164565;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/ijms27093890"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ijms27093890"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/02/25 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/04/13 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/04/19 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/05/13 06:32"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/05/13 06:31"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/05/13 01:11"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/04/27 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 105,
+      "fulljournalname": "International journal of molecular sciences",
+      "elocationid": "doi: 10.3390/ijms27093890",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/04/27 00:00",
+      "sortfirstauthor": "Renke G",
+      "vernaculartitle": ""
+    },
+    "42018810": {
+      "uid": "42018810",
+      "pubdate": "2026",
+      "epubdate": "2026 Apr 17",
+      "source": "Braz J Med Biol Res",
+      "authors": [
+        {
+          "name": "Chege BM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mwangi PW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Githinji CG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bukachi F",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Bukachi F",
+      "title": "Combined antiretroviral therapy with low- or normal-protein, high-calorie diets appears to induce significant deleterious electrocardiographic changes in a rodent model.",
+      "sorttitle": "combined antiretroviral therapy with low or normal protein high calorie diets appears to induce significant deleterious electrocardiographic changes in a rodent model",
+      "volume": "59",
+      "issue": "",
+      "pages": "e14744",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8112917",
+      "issn": "0100-879X",
+      "essn": "1414-431X",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42018810"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13089955"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13089955;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1590/1414-431X2026e14744"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0100-879X2026000103828"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/01/13 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/02/02 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/04/22 18:33"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/04/22 18:32"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/04/22 15:33"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/04/17 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 40,
+      "fulljournalname": "Brazilian journal of medical and biological research = Revista brasileira de pesquisas medicas e biologicas",
+      "elocationid": "doi: 10.1590/1414-431X2026e14744",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/04/17 00:00",
+      "sortfirstauthor": "Chege BM",
+      "vernaculartitle": ""
+    },
+    "41966639": {
+      "uid": "41966639",
+      "pubdate": "2026 Aug",
+      "epubdate": "2026 Apr 12",
+      "source": "Sports Med",
+      "authors": [
+        {
+          "name": "Mendias CL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Awan TM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Awan TM",
+      "title": "Safety and Efficacy of Approved and Unapproved Peptide Therapies for Musculoskeletal Injuries and Athletic Performance.",
+      "sorttitle": "safety and efficacy of approved and unapproved peptide therapies for musculoskeletal injuries and athletic performance",
+      "volume": "56",
+      "issue": "8",
+      "pages": "1921-1935",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8412297",
+      "issn": "0112-1642",
+      "essn": "1179-2035",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41966639"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s40279-026-02437-0"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s40279-026-02437-0"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "accepted",
+          "date": "2026/03/24 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/08/10 12:36"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/04/12 12:33"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/04/12 11:02"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Sports medicine (Auckland, N.Z.)",
+      "elocationid": "doi: 10.1007/s40279-026-02437-0",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/08/01 00:00",
+      "sortfirstauthor": "Mendias CL",
+      "vernaculartitle": ""
+    },
+    "41879875": {
+      "uid": "41879875",
+      "pubdate": "2026 Mar 25",
+      "epubdate": "2026 Mar 25",
+      "source": "Pituitary",
+      "authors": [
+        {
+          "name": "Fleseriu M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Biller BMK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Webb SM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Strasburger CJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Georgescu CE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bidlingmaier M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Baciu I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Casanueva FF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gilis-Januszewska A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hart G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Manners A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Choe J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bar-Ilan A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Carlsson M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Torre D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Taylor CT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yuen KCJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Yuen KCJ",
+      "title": "Efficacy and safety of once-weekly somatrogon in adults with growth hormone deficiency: a randomized phase 3 study.",
+      "sorttitle": "efficacy and safety of once weekly somatrogon in adults with growth hormone deficiency a randomized phase 3 study",
+      "volume": "29",
+      "issue": "2",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9814578",
+      "issn": "1386-341X",
+      "essn": "1573-7403",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Clinical Trial, Phase III",
+        "Multicenter Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41879875"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13017995"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13017995;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s11102-026-01661-1"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s11102-026-01661-1"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/12/17 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/03/02 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/06/27 18:37"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/03/25 19:36"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/03/25 12:04"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/03/25 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 38,
+      "fulljournalname": "Pituitary",
+      "elocationid": "doi: 10.1007/s11102-026-01661-1",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/03/25 00:00",
+      "sortfirstauthor": "Fleseriu M",
+      "vernaculartitle": ""
+    },
+    "41598480": {
+      "uid": "41598480",
+      "pubdate": "2026 Jan 9",
+      "epubdate": "2026 Jan 9",
+      "source": "J Clin Med",
+      "authors": [
+        {
+          "name": "Arora G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Conde KR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Desouza CV",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Desouza CV",
+      "title": "Pharmacologic Treatments for the Preservation of Lean Body Mass During Weight Loss.",
+      "sorttitle": "pharmacologic treatments for the preservation of lean body mass during weight loss",
+      "volume": "15",
+      "issue": "2",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101606588",
+      "issn": "2077-0383",
+      "essn": "2077-0383",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41598480"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12842597"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12842597;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/jcm15020541"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "jcm15020541"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/12/12 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/01/05 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/01/06 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/28 07:49"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/28 07:48"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/28 01:18"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/01/09 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 59,
+      "fulljournalname": "Journal of clinical medicine",
+      "elocationid": "doi: 10.3390/jcm15020541",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/09 00:00",
+      "sortfirstauthor": "Arora G",
+      "vernaculartitle": ""
+    },
+    "41545261": {
+      "uid": "41545261",
+      "pubdate": "2026 Jan-Feb",
+      "epubdate": "2026 Jan 16",
+      "source": "Obes Res Clin Pract",
+      "authors": [
+        {
+          "name": "Badran AS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Helal A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shata KS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ayesh H",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Ayesh H",
+      "title": "Body composition, hepatic fat, metabolic, and safety outcomes of Tesamorelin, a GHRH analogue, in HIV-associated lipodystrophy: A meta-analysis of randomized controlled trials.",
+      "sorttitle": "body composition hepatic fat metabolic and safety outcomes of tesamorelin a ghrh analogue in hiv associated lipodystrophy a meta analysis of randomized controlled trials",
+      "volume": "20",
+      "issue": "1",
+      "pages": "2-12",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101303911",
+      "issn": "1871-403X",
+      "essn": "",
+      "pubtype": [
+        "Meta-Analysis",
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41545261"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.orcp.2026.01.002"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1871-403X(26)00002-5"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/09/15 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/01/07 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/01/11 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/02/12 00:47"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/17 00:36"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/16 21:51"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Obesity research & clinical practice",
+      "elocationid": "doi: 10.1016/j.orcp.2026.01.002",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "Badran AS",
+      "vernaculartitle": ""
+    },
+    "41490200": {
+      "uid": "41490200",
+      "pubdate": "2026 Jan 1",
+      "epubdate": "2026 Jan 2",
+      "source": "J Am Acad Orthop Surg Glob Res Rev",
+      "authors": [
+        {
+          "name": "Rahman OF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lee SJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Seeds WA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Seeds WA",
+      "title": "Therapeutic Peptides in Orthopaedics: Applications, Challenges, and Future Directions.",
+      "sorttitle": "therapeutic peptides in orthopaedics applications challenges and future directions",
+      "volume": "10",
+      "issue": "1",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101724868",
+      "issn": "",
+      "essn": "2474-7661",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41490200"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12753158"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12753158;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.5435/JAAOSGlobal-D-25-00236"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "01979360-202601000-00001"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/06/25 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/11/09 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/06 13:07"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/06 13:06"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/06 10:34"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/01/02 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 53,
+      "fulljournalname": "Journal of the American Academy of Orthopaedic Surgeons. Global research & reviews",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/02 00:00",
+      "sortfirstauthor": "Rahman OF",
+      "vernaculartitle": ""
+    },
+    "41476424": {
+      "uid": "41476424",
+      "pubdate": "2026 Jan",
+      "epubdate": "2026 Jan 1",
+      "source": "Am J Sports Med",
+      "authors": [
+        {
+          "name": "Mayfield CK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bolia IK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Feingold CL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lin EH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu JN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rick Hatch GF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gamradt SC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Weber AE",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Weber AE",
+      "title": "Injectable Peptide Therapy: A Primer for Orthopaedic and Sports Medicine Physicians.",
+      "sorttitle": "injectable peptide therapy a primer for orthopaedic and sports medicine physicians",
+      "volume": "54",
+      "issue": "1",
+      "pages": "223-229",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7609541",
+      "issn": "0363-5465",
+      "essn": "1552-3365",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41476424"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1177/03635465251357593"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/01 07:39"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/01 07:38"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/01 03:03"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The American journal of sports medicine",
+      "elocationid": "doi: 10.1177/03635465251357593",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "Mayfield CK",
+      "vernaculartitle": ""
+    },
+    "41138283": {
+      "uid": "41138283",
+      "pubdate": "2026 Jan 15",
+      "epubdate": "2025 Oct 20",
+      "source": "J Pharm Biomed Anal",
+      "authors": [
+        {
+          "name": "U\u00e7akt\u00fcrk E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nemutlu E",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Nemutlu E",
+      "title": "Analysis of growth hormone releasing hormone and its analogs in urine using nano liquid chromatography coupled with quadrupole/orbitrap mass spectrometry.",
+      "sorttitle": "analysis of growth hormone releasing hormone and its analogs in urine using nano liquid chromatography coupled with quadrupole orbitrap mass spectrometry",
+      "volume": "268",
+      "issue": "",
+      "pages": "117207",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8309336",
+      "issn": "0731-7085",
+      "essn": "1873-264X",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41138283"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jpba.2025.117207"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0731-7085(25)00548-5"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/06/02 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/10/17 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/10/19 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/11/21 00:27"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/10/25 20:36"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/10/25 17:59"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of pharmaceutical and biomedical analysis",
+      "elocationid": "doi: 10.1016/j.jpba.2025.117207",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/15 00:00",
+      "sortfirstauthor": "U\u00e7akt\u00fcrk E",
+      "vernaculartitle": ""
+    },
+    "40510111": {
+      "uid": "40510111",
+      "pubdate": "2025 May",
+      "epubdate": "2025 May 12",
+      "source": "Cureus",
+      "authors": [
+        {
+          "name": "Mihalache A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Volfson E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huang R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zuo K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Persitz J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Persitz J",
+      "title": "Carpal Tunnel Syndrome Attributed to Medication Use: A Pharmacovigilance Study.",
+      "sorttitle": "carpal tunnel syndrome attributed to medication use a pharmacovigilance study",
+      "volume": "17",
+      "issue": "5",
+      "pages": "e83972",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101596737",
+      "issn": "2168-8184",
+      "essn": "2168-8184",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40510111"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12159276"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12159276;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.7759/cureus.83972"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "accepted",
+          "date": "2025/05/12 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/06/13 06:36"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/06/13 06:35"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/06/13 05:04"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/05/12 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 33,
+      "fulljournalname": "Cureus",
+      "elocationid": "doi: 10.7759/cureus.83972",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/05/12 00:00",
+      "sortfirstauthor": "Mihalache A",
+      "vernaculartitle": ""
+    },
+    "40397552": {
+      "uid": "40397552",
+      "pubdate": "2025 Jul 1",
+      "epubdate": "2025 May 21",
+      "source": "Curr Opin HIV AIDS",
+      "authors": [
+        {
+          "name": "Gattu AK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fourman LT",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Fourman LT",
+      "title": "Metabolic dysfunction-associated steatotic liver disease in people with HIV.",
+      "sorttitle": "metabolic dysfunction associated steatotic liver disease in people with hiv",
+      "volume": "20",
+      "issue": "4",
+      "pages": "350-358",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101264945",
+      "issn": "1746-630X",
+      "essn": "1746-6318",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40397552"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS2078118"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12314779"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12314779;manuscript-id: NIHMS2078118;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/COH.0000000000000952"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "01222929-990000000-00165"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/06/05 12:32"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/05/21 18:29"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/05/21 12:32"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/07/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 127,
+      "fulljournalname": "Current opinion in HIV and AIDS",
+      "elocationid": "doi: 10.1097/COH.0000000000000952",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/07/01 00:00",
+      "sortfirstauthor": "Gattu AK",
+      "vernaculartitle": ""
+    },
+    "39813152": {
+      "uid": "39813152",
+      "pubdate": "2025 Jun 2",
+      "epubdate": "",
+      "source": "J Infect Dis",
+      "authors": [
+        {
+          "name": "Ellis RJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vaida F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hu K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dube M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Henry B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chow F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Heaton RK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lee D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sattler F",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Sattler F",
+      "title": "Effects of Tesamorelin on Neurocognitive Impairment in Persons With HIV and Abdominal Obesity.",
+      "sorttitle": "effects of tesamorelin on neurocognitive impairment in persons with hiv and abdominal obesity",
+      "volume": "231",
+      "issue": "5",
+      "pages": "1230-1238",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0413675",
+      "issn": "0022-1899",
+      "essn": "1537-6613",
+      "pubtype": [
+        "Clinical Trial, Phase II",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39813152"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1093/infdis/jiaf012"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "7954598"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2024/09/19 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/01/05 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/06/02 12:31"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/01/15 18:20"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/01/15 13:03"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Journal of infectious diseases",
+      "elocationid": "doi: 10.1093/infdis/jiaf012",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/06/02 00:00",
+      "sortfirstauthor": "Ellis RJ",
+      "vernaculartitle": ""
+    },
+    "39746672": {
+      "uid": "39746672",
+      "pubdate": "2024 Aug 12",
+      "epubdate": "",
+      "source": "Top Antivir Med",
+      "authors": [
+        {
+          "name": "Corley MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Letendre SL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nightingale S",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Nightingale S",
+      "title": "CROI 2024: Neuropsychiatric Complications in People With HIV.",
+      "sorttitle": "croi 2024 neuropsychiatric complications in people with hiv",
+      "volume": "32",
+      "issue": "4",
+      "pages": "513-522",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101560274",
+      "issn": "2161-5861",
+      "essn": "2161-5853",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39746672"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11361754"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11361754;"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/01/03 00:21"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/01/03 00:20"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/01/02 20:17"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2024/08/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Topics in antiviral medicine",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2024/08/12 00:00",
+      "sortfirstauthor": "Corley MJ",
+      "vernaculartitle": ""
+    },
+    "38905488": {
+      "uid": "38905488",
+      "pubdate": "2024 Oct 1",
+      "epubdate": "2024 Jun 20",
+      "source": "AIDS",
+      "authors": [
+        {
+          "name": "Russo SC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ockene MW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Arpante AK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Johnson JE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lee H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Toribio M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stanley TL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hadigan CM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Grinspoon SK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Erlandson KM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fourman LT",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Fourman LT",
+      "title": "Efficacy and safety of tesamorelin in people with HIV on integrase inhibitors.",
+      "sorttitle": "efficacy and safety of tesamorelin in people with hiv on integrase inhibitors",
+      "volume": "38",
+      "issue": "12",
+      "pages": "1758-1764",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8710219",
+      "issn": "0269-9370",
+      "essn": "1473-5571",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38905488"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS2003686"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11365754"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11365754;manuscript-id: NIHMS2003686;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/QAD.0000000000003965"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "00002030-202410010-00004"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2024/08/31 09:53"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2024/06/21 18:43"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2024/06/21 15:12"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/10/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 41,
+      "fulljournalname": "AIDS (London, England)",
+      "elocationid": "doi: 10.1097/QAD.0000000000003965",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2024/10/01 00:00",
+      "sortfirstauthor": "Russo SC",
+      "vernaculartitle": ""
+    },
+    "38416754": {
+      "uid": "38416754",
+      "pubdate": "2024",
+      "epubdate": "2024 Feb 28",
+      "source": "PLoS One",
+      "authors": [
+        {
+          "name": "Chege BM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mwangi PW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Githinji CG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bukachi F",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Bukachi F",
+      "title": "Dietary regimens appear to possess significant effects on the development of combined antiretroviral therapy (cART)-associated metabolic syndrome.",
+      "sorttitle": "dietary regimens appear to possess significant effects on the development of combined antiretroviral therapy cart associated metabolic syndrome",
+      "volume": "19",
+      "issue": "2",
+      "pages": "e0298752",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101285081",
+      "issn": "",
+      "essn": "1932-6203",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38416754"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10901320"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10901320;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1371/journal.pone.0298752"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "PONE-D-23-33547"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2023/10/13 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2024/01/29 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2024/03/01 06:44"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2024/02/28 18:43"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2024/02/28 13:34"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2024/02/28 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 51,
+      "fulljournalname": "PloS one",
+      "elocationid": "doi: 10.1371/journal.pone.0298752",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2024/02/28 00:00",
+      "sortfirstauthor": "Chege BM",
+      "vernaculartitle": ""
+    },
+    "38197510": {
+      "uid": "38197510",
+      "pubdate": "2024 Jan",
+      "epubdate": "",
+      "source": "J Mass Spectrom",
+      "authors": [
+        {
+          "name": "Thomas A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Walpurgis K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thevis M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Thevis M",
+      "title": "Chromatographic-mass spectrometric analysis of peptidic analytes (2-10\u00a0kDa) in doping control urine samples.",
+      "sorttitle": "chromatographic mass spectrometric analysis of peptidic analytes 2 10 kda in doping control urine samples",
+      "volume": "59",
+      "issue": "1",
+      "pages": "e4996",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9504818",
+      "issn": "1076-5174",
+      "essn": "1096-9888",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38197510"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/jms.4996"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2023/11/13 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2023/09/01 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2023/12/05 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2024/01/11 07:43"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2024/01/10 12:43"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2024/01/10 08:12"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of mass spectrometry : JMS",
+      "elocationid": "doi: 10.1002/jms.4996",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2024/01/01 00:00",
+      "sortfirstauthor": "Thomas A",
+      "vernaculartitle": ""
+    },
+    "37806509": {
+      "uid": "37806509",
+      "pubdate": "2023 Dec 1",
+      "epubdate": "2023 Oct 6",
+      "source": "Anal Biochem",
+      "authors": [
+        {
+          "name": "Cristea CD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Radu M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Toboc A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stan C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "David V",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "David V",
+      "title": "Cationic exchange SPE combined with triple quadrupole UHPLC-MS/MS for detection of GHRHs in urine samples.",
+      "sorttitle": "cationic exchange spe combined with triple quadrupole uhplc ms ms for detection of ghrhs in urine samples",
+      "volume": "682",
+      "issue": "",
+      "pages": "115336",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0370535",
+      "issn": "0003-2697",
+      "essn": "1096-0309",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37806509"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ab.2023.115336"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0003-2697(23)00301-9"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2023/07/30 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2023/09/19 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2023/09/28 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2023/10/30 06:47"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2023/10/09 00:42"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2023/10/08 19:29"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Analytical biochemistry",
+      "elocationid": "doi: 10.1016/j.ab.2023.115336",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2023/12/01 00:00",
+      "sortfirstauthor": "Cristea CD",
+      "vernaculartitle": ""
+    },
+    "36845310": {
+      "uid": "36845310",
+      "pubdate": "2023",
+      "epubdate": "2022 Dec 7",
+      "source": "J Clin Transl Sci",
+      "authors": [
+        {
+          "name": "Rahman F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McLaughlin T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mesquita P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Morin J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Potvin D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "De Chantal M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Aberg JA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Aberg JA",
+      "title": "Effect of tesamorelin in people with HIV with and without dorsocervical fat: Post hoc analysis of phase III double-blind placebo-controlled trial.",
+      "sorttitle": "effect of tesamorelin in people with hiv with and without dorsocervical fat post hoc analysis of phase iii double blind placebo controlled trial",
+      "volume": "7",
+      "issue": "1",
+      "pages": "e40",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101689953",
+      "issn": "",
+      "essn": "2059-8661",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36845310"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9947601"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9947601;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1017/cts.2022.515"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2059866122005155"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2022/08/17 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2022/11/22 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2022/11/23 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2023/02/27 05:03"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2023/02/28 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2023/02/28 06:01"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2022/12/07 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 18,
+      "fulljournalname": "Journal of clinical and translational science",
+      "elocationid": "doi: 10.1017/cts.2022.515",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2022/12/07 00:00",
+      "sortfirstauthor": "Rahman F",
+      "vernaculartitle": ""
+    },
+    "36461941": {
+      "uid": "36461941",
+      "pubdate": "2023 Feb 14",
+      "epubdate": "",
+      "source": "J Infect Dis",
+      "authors": [
+        {
+          "name": "Fourman LT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stanley TL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ockene MW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McClure CM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Toribio M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Corey KE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chung RT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Torriani M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kleiner DE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hadigan CM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Grinspoon SK",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Grinspoon SK",
+      "title": "Proteomic Analysis of Hepatic Fibrosis in Human Immunodeficiency Virus-Associated Nonalcoholic Fatty Liver Disease Demonstrates Up-regulation of Immune Response and Tissue Repair Pathways.",
+      "sorttitle": "proteomic analysis of hepatic fibrosis in human immunodeficiency virus associated nonalcoholic fatty liver disease demonstrates up regulation of immune response and tissue repair pathways",
+      "volume": "227",
+      "issue": "4",
+      "pages": "565-576",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0413675",
+      "issn": "0022-1899",
+      "essn": "1537-6613",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36461941"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10152500"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10152500;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1093/infdis/jiac475"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "6869523"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2022/08/18 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2022/12/01 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2022/12/04 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2023/02/17 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2022/12/03 10:22"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2023/12/03 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 41,
+      "fulljournalname": "The Journal of infectious diseases",
+      "elocationid": "doi: 10.1093/infdis/jiac475",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2023/02/14 00:00",
+      "sortfirstauthor": "Fourman LT",
+      "vernaculartitle": ""
+    }
+  }
+}
