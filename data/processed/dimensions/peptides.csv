@@ -1,0 +1,10 @@
+peptide_id,peptide_name,primary_usage,price_range,approved
+1,BPC-157,"gastric/tissue injury repair, studied mainly in animal models",,False
+2,TB-500,"tissue repair and wound healing, studied mainly in animal models",,False
+3,Retatrutide,triple hormone-receptor agonist studied for obesity and type 2 diabetes weight loss,,False
+4,Semaglutide,GLP-1 receptor agonist for type 2 diabetes and chronic weight management,,True
+5,Ipamorelin,growth hormone secretagogue studied for GH release and body composition,,False
+6,GHK-Cu,"copper-binding peptide studied for skin repair, collagen production and wound healing",,False
+7,Epitalon,synthetic tetrapeptide studied for telomerase activation and cellular ageing,,False
+8,Tesamorelin,GHRH analogue studied for reducing visceral fat; approved in the US (Egrifta) for HIV-associated lipodystrophy but not MHRA-approved in the UK,,False
+9,CJC-1295,GHRH analogue studied for sustained growth hormone/IGF-1 elevation,,False
