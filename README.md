@@ -1,4 +1,9 @@
-# UK Peptides Interest Analysis
+
+ <div align="center">
+
+ # UK Peptides Interest Analysis 💉💊
+
+</div>
 
 An end-to-end data pipeline and analysis project studying public and clinical
 interest in nine research/performance peptides in the UK, from 2023 through
