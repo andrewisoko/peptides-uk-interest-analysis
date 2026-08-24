@@ -354,6 +354,11 @@ Defined in the `Success Metrics` and `KPIs` sheets of
   2023-2026 window) and should be re-verified before reuse, especially for
   peptides in active trials.
 
+  # Dashboard example
+
+  ![ image alt](https://github.com/andrewisoko/peptides-uk-interest-analysis/blob/fa149f4fce2dc3e60e5af0c459668ecd91ad2ac0/screenshots/Overview.png)
+
+
 ## Repository layout
 
 ```
